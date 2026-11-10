@@ -60,7 +60,7 @@ With simulated data, the script runs end to end and writes two figures: `intenti
 ## 5. Validity and ethics notes
 
 - **Placement.** The monitoring-day invitation is the **last** item at T1, so it cannot affect T1 self-reports. The festival invitation (T0) is likewise revealed only at the end of T0.
-- **Reactivity.** The sign-in sheet is a routine part of the event (needed for transport and meals). Residents are not told it is a study measure until the **debrief**, which covers the random invitations and the use of sign-in data.
+- **Reactivity.** The sign-in sheet is a routine part of the event (needed for transport and meals). Residents are not told it is a study measure until the **debrief**: a community debriefing session after the monitoring day, open to everyone, which covers the random invitations and the use of sign-in data.
 - **No penalties.** Not signing up or not attending has no consequence. Survey payments are unconditional.
 - **Data protection.** The sign-in sheet links to `participant_id` only. Names are kept in a separate file, and **the GNPD never sees individual data**, even though it co-organizes the event.
 - **Limitation.** A single event on two possible dates measures one behavior. It is a conservative test, since practical barriers are deliberately lowered. Durable participation would need repeated events.

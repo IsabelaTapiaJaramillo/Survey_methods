@@ -62,7 +62,7 @@ Origin (born in Galápagos vs. mainland) is a quota variable but **not** a strat
 - [x] Assignment sequence stored in a locked file (not accessible to data collectors if blinding is required). The CSV is loaded inside the Kobo form media and is not visible to enumerators. The master copy is held by the PI. The committed `assignment_sequence_example.csv` is a demonstration only.
 - [x] Assignment delivered to participants via: ☒ Survey platform randomizer (KoboToolbox, pre-generated R sequence)  ☒ Researcher (the enumerator hands over the card and voucher)  ☐ Automated system
 - [x] Blinding: ☐ Participants blind to condition  ☒ Data analysts blind until lock  ☐ Not blinded (document reason)
-  - **Participants:** They are not told that a comparison group exists until the debrief (after the monitoring day), so they cannot be fully blind to their own condition. Everyone is debriefed about the random invitations.
+  - **Participants:** They are not told that a comparison group exists until the debrief, so they cannot be fully blind to their own condition. **Debrief:** after the monitoring day, a community debriefing session, open to everyone, explains what happened in the study, including that invitations were assigned at random and why.
   - **Enumerators:** They cannot be blind, because they deliver the invitation. To limit the impact, assignment is revealed only after all baseline answers are saved, and the second-survey scripts are identical for both arms.
   - **Analysts:** The condition is masked ("A"/"B") until the analysis plan is locked on OSF and the data are cleaned.
 
