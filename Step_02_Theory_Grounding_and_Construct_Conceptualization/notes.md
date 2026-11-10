@@ -49,8 +49,8 @@ The *Festival de las Tortugas Gigantes* is designed to act on each SIMPEA lever:
 | Relational values (Chan et al., 2016) | Stable | Relational Values scale, 6 items, 5-point (Klain et al., 2017), **validated, from the Step 03 table** | Baseline; new residents | Predictor, moderator | H1a, H1b |
 | Trust in the GNPD (Stern & Coleman, 2015) | Mid-range | 6 new items, 2 per type (competence, relationships, procedures) | Before and after | Predictor, moderator | H1b, H2d |
 | Identification as Galapagueño/a (SIT; SIMPEA) | Fairly stable | 4 items adapted from Leach et al. (2008) | Baseline | Predictor, moderator | H1c, H2d |
-| In-group norms (SIMPEA) | Mid-range | 3 items adapted from SIMPEA studies (e.g., Johnson & Reimer, 2023) | Before and after | Moderator; outcome | H1c, H2b |
-| Collective efficacy (SIMPEA) | Mid-range | 3 items adapted from SIMPEA studies | Before and after | Outcome | H2b |
+| In-group norms (SIMPEA) | Mid-range | 3 items written for this study from SIMPEA definitions (related application: Johnson & Reimer, 2023) | Before and after | Moderator; outcome | H1c, H2b |
+| Collective efficacy (SIMPEA) | Mid-range | 3 items written for this study from SIMPEA definitions | Before and after | Outcome | H2b |
 | Participation intentions | Mid-range | 5 items, including willingness to join a monitoring day | Before and after | **DV** | H1a–c, H2b |
 | Practical barriers (cf. TPB control) | Situational | Multi-select checklist (work schedule, family care, transport, cost, other) | Baseline; follow-up call | Covariate | All |
 | Festival invitation (randomized) | n/a | KoboToolbox random assignment | End of first survey | **IV** (instrument) | H2a, H2b (ITT/IV) |

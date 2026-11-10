@@ -1,9 +1,9 @@
 # Scale documentation — Collective Efficacy (CE)
 
-*Status: **adapted** measure (the Step 03 table has no collective-efficacy scale; see `../notes.md`).*
+*Status: **new** measure, written for this study (the Step 03 table has no collective-efficacy scale; see `../notes.md`). Wording reviewed and approved by the author, 2026-11-10.*
 
 - **Construct name:** Collective efficacy: the shared belief that residents of Santa Cruz, acting together, can achieve tortoise conservation goals (Bandura, 2000; Fritsche et al., 2018).
-- **Source / citation:** Adapted from collective-efficacy items in SIMPEA studies (e.g., Johnson & Reimer, 2023). The items follow SIMPEA's "we can do it together" definition and are tailored to tortoise conservation.
+- **Source / citation:** Written for this study from SIMPEA's "we can do it together" definition of collective efficacy (Bandura, 2000; Fritsche et al., 2018). For a related SIMPEA application, see Johnson and Reimer (2023), who adapted three collective-efficacy items from Jugert et al. (2016).
 - **Items (numbered):**
 
 | # | Variable | English | Spanish draft |
@@ -14,7 +14,7 @@
 
 - **Response format:** 5-point Likert (1 = Strongly disagree … 5 = Strongly agree).
 - **Scoring rules:** Mean of CE1–CE3 (range 1–5), computed if at least 2 of 3 items are answered.
-- **Known reliability:** Not yet established in this population. The target in the pilot is ω ≥ .70.
+- **Known reliability:** Not yet established in this population. The target in the pilot is ω ≥ .70. (For comparison, Johnson & Reimer's (2023) three Jugert-based community-efficacy items had α = .83 in their solar-specific version.)
 - **Validation notes:**
   - Discriminant validity against in-group norms is tested in the two-factor CFA (see `03_ingroup_norms.md`).
   - Convergent validity: CE should correlate positively with intentions (cf. Fritsche et al., 2018).

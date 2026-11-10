@@ -12,8 +12,8 @@
 |---|---|---|---|---|
 | Relational Values (RV) | 6 | **Validated, from the Step 03 table** | Klain et al. (2017) | [`01_relational_values.md`](scale_documentation/01_relational_values.md) |
 | Identification as Galapagueño/a (ID) | 4 | Adapted | Leach et al. (2008) | [`02_identification_galapagueno.md`](scale_documentation/02_identification_galapagueno.md) |
-| In-group norms (NORM) | 3 | Adapted | SIMPEA studies (e.g., Johnson & Reimer, 2023) | [`03_ingroup_norms.md`](scale_documentation/03_ingroup_norms.md) |
-| Collective efficacy (CE) | 3 | Adapted | SIMPEA studies (e.g., Johnson & Reimer, 2023) | [`04_collective_efficacy.md`](scale_documentation/04_collective_efficacy.md) |
+| In-group norms (NORM) | 3 | New (written for this study) | SIMPEA definitions (Fritsche et al., 2018); related application: Johnson & Reimer (2023) | [`03_ingroup_norms.md`](scale_documentation/03_ingroup_norms.md) |
+| Collective efficacy (CE) | 3 | New (written for this study) | SIMPEA definitions (Fritsche et al., 2018); related application: Johnson & Reimer (2023) | [`04_collective_efficacy.md`](scale_documentation/04_collective_efficacy.md) |
 | Trust in the GNPD (TRUST) | 6 (2 × 3 types) | New, built from theory | Stern & Coleman (2015) | [`05_trust_gnpd.md`](scale_documentation/05_trust_gnpd.md) |
 | Participation intentions (INT) | 5 | New (behavior-specific) | Fishbein & Ajzen (2010); Step 07 B-04 | [`06_participation_intentions.md`](scale_documentation/06_participation_intentions.md) |
 | Practical barriers (BAR) | 7 options | New formative checklist | Assignment 1; COM-B "opportunity" | [`07_practical_barriers.md`](scale_documentation/07_practical_barriers.md) |
@@ -28,9 +28,10 @@ The Step 03 reference table covers values and worldviews (NEP, RV, WVO, EVBS), e
 - **Kellert, BAtSS and the bird attitude scales** measure attitudes toward species, not participation in collective action.
 
 I therefore:
-1. **adapted** established items for identification (Leach et al., 2008), norms and collective efficacy (SIMPEA studies), changing only the target group and behavior;
-2. **built** the trust items directly from Stern and Coleman's (2015) definitions of trust types, because no published scale measures trust in a park authority across all three types;
-3. **wrote** behavior-specific intention items, as is standard: intentions must match the target behavior in action, target, context and time (Fishbein & Ajzen, 2010).
+1. **adapted** established items for identification (Leach et al., 2008), changing only the target group;
+2. **wrote** norm and collective-efficacy items from SIMPEA's definitions (Fritsche et al., 2018), tailored to tortoise conservation on Santa Cruz (for a related application, see Johnson & Reimer, 2023);
+3. **built** the trust items directly from Stern and Coleman's (2015) definitions of trust types, because no published scale measures trust in a park authority across all three types;
+4. **wrote** behavior-specific intention items, as is standard: intentions must match the target behavior in action, target, context and time (Fishbein & Ajzen, 2010).
 
 ## 3. Adaptations made
 
@@ -87,9 +88,13 @@ Fritsche, I., Barth, M., Jugert, P., Masson, T., & Reese, G. (2018). A social id
 
 Johnson, N., & Reimer, T. (2023). Using the social identity model of pro-environmental behavior to predict support for the adoption of solar panels. *Journal of Environmental Studies and Sciences*, *13*(4), 587–601. https://doi.org/10.1007/s13412-023-00850-9
 
+Jugert, P., Greenaway, K., Barth, M., Büchner, R., Eisentraut, S., & Fritsche, I. (2016). Collective efficacy increases pro-environmental intentions through increasing self-efficacy. *Journal of Environmental Psychology*, *48*, 12–23.
+
 Klain, S. C., Olmsted, P., Chan, K. M. A., & Satterfield, T. (2017). Relational values resonate broadly and differently than intrinsic or instrumental values, or the New Ecological Paradigm. *PLOS ONE*, *12*(8), e0183962. https://doi.org/10.1371/journal.pone.0183962
 
 Leach, C. W., van Zomeren, M., Zebel, S., Vliek, M. L. W., Pennekamp, S. F., Doosje, B., Ouwerkerk, J. W., & Spears, R. (2008). Group-level self-definition and self-investment: A hierarchical (multicomponent) model of in-group identification. *Journal of Personality and Social Psychology*, *95*(1), 144–165. https://doi.org/10.1037/0022-3514.95.1.144
+
+Masson, T., Jugert, P., & Fritsche, I. (2016). Collective self-fulfilling prophecies: Group identification biases perceptions of environmental group norms among high identifiers. *Social Influence*, *11*(3), 185–198.
 
 Michie, S., van Stralen, M. M., & West, R. (2011). The behaviour change wheel: A new method for characterising and designing behaviour change interventions. *Implementation Science*, *6*, 42. https://doi.org/10.1186/1748-5908-6-42
 

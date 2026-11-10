@@ -1,9 +1,9 @@
 # Scale documentation — Perceived In-group Norms (NORM)
 
-*Status: **adapted** measure (the Step 03 table has no norm scale; see `../notes.md`).*
+*Status: **new** measure, written for this study (the Step 03 table has no norm scale; see `../notes.md`). Wording reviewed and approved by the author, 2026-11-10.*
 
 - **Construct name:** Perceived in-group norms about tortoise conservation: what people in the respondent's community are seen to **do** (descriptive norm) and to **approve of** (injunctive norm) (Cialdini et al., 1990; Fritsche et al., 2018).
-- **Source / citation:** Adapted from norm items used in SIMPEA studies (e.g., Johnson & Reimer, 2023), following SIMPEA's definition of in-group norms. The wording is tailored to giant tortoise conservation on Santa Cruz.
+- **Source / citation:** Written for this study from SIMPEA's definition of in-group norms (Fritsche et al., 2018). For a related SIMPEA application, see Johnson and Reimer (2023), who measured descriptive community norms with Masson et al.'s (2016) "proportion of members of your community who…" format.
 - **Items (numbered):**
 
 | # | Variable | Norm type | English | Spanish draft |
