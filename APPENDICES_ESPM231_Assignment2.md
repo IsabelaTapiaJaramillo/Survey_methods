@@ -20,4 +20,10 @@ Rscript Step_04_Study_Architecture_and_Experimental_Design/code/randomization.R
 Rscript Step_07_Measuring_Behavior_Beyond_Self_Report/code/intention_behavior_gap.R
 ```
 
-**References still to complete** (marked *[to be completed by author]* in the files): Johnson & Reimer (2023); Wilkie et al. (2026); Tapia-Jaramillo (2022, MSc thesis); Boren & Echeverri (2025); de Goede et al. (2025).
+**References added on 2026-11-10** (previously placeholders):
+
+- Boren, A., & Echeverri, A. (2025). Does psychic numbing apply to endangered species conservation? The case of the Peregrine Falcon in Berkeley, California. *Frontiers in Conservation Science*, *6*. https://doi.org/10.3389/fcosc.2025.1490272
+- de Goede, M., Leukfeldt, E. R., van der Wagen, W., & van de Weijer, S. (2025). Does protection motivation predict self-protective online behaviour? Comparing self-reported and actual online behaviour using a population-based survey experiment. *Computers in Human Behavior Reports*, 100649. https://doi.org/10.1016/j.chbr.2025.100649
+- Johnson, N., & Reimer, T. (2023). Using the social identity model of pro-environmental behavior to predict support for the adoption of solar panels. *Journal of Environmental Studies and Sciences*, *13*(4), 587–601. https://doi.org/10.1007/s13412-023-00850-9
+- Tapia-Jaramillo, I. (2022). *Multi-criteria decision analysis and public participation GIS as a spatial tool to inform and improve giant tortoise population management in the Galapagos Islands, Ecuador* [Master's thesis, University of Southampton]. https://doi.org/10.13140/RG.2.2.34320.01283
+- Wilkie, D. S., Robinson, J. G., Bennett, E. L., & The WCS Wild Meat Group. (2026). Using behavioral science to end the tropical forest wild meat crisis, illustrated by a case example from Central Africa. *Conservation Science and Practice*, *8*(2), e70220. https://doi.org/10.1111/csp2.70220

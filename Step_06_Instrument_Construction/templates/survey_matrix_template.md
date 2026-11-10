@@ -336,12 +336,12 @@ Use the table below to select the appropriate format for each item.
 
 ### Additional references for this study
 
-- Boren, & Echeverri, A. (2025). *[Word association task, cited in the repo's `question_types_reference.md`; full reference to be completed by author.]*
+- Boren, A., & Echeverri, A. (2025). Does psychic numbing apply to endangered species conservation? The case of the Peregrine Falcon in Berkeley, California. *Frontiers in Conservation Science*, *6*. https://doi.org/10.3389/fcosc.2025.1490272
 - Echeverri, A., Karp, D. S., Naidoo, R., Zhao, J., & Chan, K. M. (2019). Approaching human-animal relationships from multiple angles: A synthetic perspective. *Biological Conservation*, 240, 108297.
 - Klain, S. C., Olmsted, P., Chan, K. M. A., & Satterfield, T. (2017). Relational values resonate broadly and differently than intrinsic or instrumental values, or the New Ecological Paradigm. *PLOS ONE*, 12(8), e0183962.
 - Langhans, K. E., Echeverri, A., Xu, M., Callahan, M., Palmeri, M. L., Nguyen, O., Ardoin, N. M., & Daily, G. C. (2025). Urban community gardens foster positive human-avian interactions across an income gradient in San Francisco. *Landscape and Urban Planning*, 261, 105391.
 - Leach, C. W., et al. (2008). Group-level self-definition and self-investment. *JPSP*, 95(1), 144–165. *(Full references for the adapted measures: `Step_03/notes.md`.)*
 - Prober, S. M., Raisbeck-Brown, N., Porter, N. B., Williams, K. J., Leviston, Z., & Dickson, F. (2019). Recent climate-driven ecological change across a continent as perceived through local ecological knowledge. *PLOS ONE*, 14(11), e0224625.
 - Stern, M. J., & Coleman, K. J. (2015). The multidimensionality of trust. *Society & Natural Resources*, 28(2), 117–132.
-- Tapia-Jaramillo, I. (2022). *[MSc thesis on participatory mapping on Isabela Island; full reference to be completed by author.]*
+- Tapia-Jaramillo, I. (2022). *Multi-criteria decision analysis and public participation GIS as a spatial tool to inform and improve giant tortoise population management in the Galapagos Islands, Ecuador* [Master's thesis, University of Southampton]. https://doi.org/10.13140/RG.2.2.34320.01283
 - Veríssimo, D., Fiennes, S., & Dunn, M. (2024). Using digital mobile games to increase the support for nature conservation. *Conservation Science and Practice*, 6(11), e13236.

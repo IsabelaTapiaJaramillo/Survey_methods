@@ -3,7 +3,7 @@
 *Status: **adapted** measure (the Step 03 table has no collective-efficacy scale; see `../notes.md`).*
 
 - **Construct name:** Collective efficacy: the shared belief that residents of Santa Cruz, acting together, can achieve tortoise conservation goals (Bandura, 2000; Fritsche et al., 2018).
-- **Source / citation:** Adapted from collective-efficacy items in SIMPEA studies (e.g., Johnson & Reimer, 2023; *full reference to be completed*). The items follow SIMPEA's "we can do it together" definition and are tailored to tortoise conservation.
+- **Source / citation:** Adapted from collective-efficacy items in SIMPEA studies (e.g., Johnson & Reimer, 2023). The items follow SIMPEA's "we can do it together" definition and are tailored to tortoise conservation.
 - **Items (numbered):**
 
 | # | Variable | English | Spanish draft |

@@ -83,7 +83,7 @@ Chan, K. M. A., Balvanera, P., Benessaiah, K., Chapman, M., Díaz, S., Gómez-Ba
 
 Fritsche, I., Barth, M., Jugert, P., Masson, T., & Reese, G. (2018). A social identity model of pro-environmental action (SIMPEA). *Psychological Review*, *125*(2), 245–269. https://doi.org/10.1037/rev0000090
 
-Johnson, & Reimer. (2023). *[Full reference to be completed by author: SIMPEA study used as the source for the norm and collective-efficacy items.]*
+Johnson, N., & Reimer, T. (2023). Using the social identity model of pro-environmental behavior to predict support for the adoption of solar panels. *Journal of Environmental Studies and Sciences*, *13*(4), 587–601. https://doi.org/10.1007/s13412-023-00850-9
 
 Klain, S. C., Olmsted, P., Chan, K. M. A., & Satterfield, T. (2017). Relational values resonate broadly and differently than intrinsic or instrumental values, or the New Ecological Paradigm. *PLOS ONE*, *12*(8), e0183962. https://doi.org/10.1371/journal.pone.0183962
 

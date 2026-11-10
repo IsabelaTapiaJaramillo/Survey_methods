@@ -27,8 +27,8 @@
 |---|---|---|---|---|
 | **RQ1 / H1a–H1c**: one tested term (e.g., RV × trust) in a 16-predictor regression* | `pwr.f2.test(u = 1, f2 = .02)` → *v* = 392.4 | *f*² = .02 | **N = 410** at baseline (*v* + *k* + 1 = 393 + 16 + 1) | .83 (N = 440) |
 | **H2a**: attendance, invited vs. not invited | `pwr.2p.test(h = ES.h(.40, .25))` | 25% vs. 40% (*h* = 0.32) | **152 per group** at follow-up; 151.2 / 0.70 = **216 per group (432 total)** at baseline | .81 (154 per arm) |
-| **H2b**: ANCOVA on follow-up, controlling for baseline | `pwr.t.test(d)` × 0.75 | *d* = 0.31 | 164.3 × 0.75 → **124 per group** at follow-up | .88 (154 per arm) |
-| H2b (sensitivity) | same | *d* = 0.18 | 485.5 × 0.75 → **365 per group** | .44 (154 per arm) |
+| **H2b**: ANCOVA on follow-up, controlling for baseline | `pwr.t.test(d)` × 0.75 | *d* = 0.31 | 164.3 × 0.75 → **124 per group** at follow-up (if groups were equal) | .84 (~100 attendees vs. ~208 non-attendees) |
+| H2b (sensitivity) | same | *d* = 0.18 | 485.5 × 0.75 → **365 per group** | .40 (~100 vs. ~208) |
 
 \* The 16 predictors are relational values, trust, identification and in-group norms (4); the RV × trust and identification × norms interactions (2); area (1); origin (1); occupation as 4 dummies (4); and age, gender, education and years in Galápagos (4).
 
@@ -36,7 +36,7 @@
 
 ### Which test drives the sample size?
 
-> **H2a is the binding constraint.** It needs 152 per group at follow-up. Divided by 0.70 (30% attrition), that is 216 per group, or **432 at baseline**, which I round up to **N = 440 (220 per arm)** as a small buffer. That baseline N also covers RQ1 (410 needed; RQ1 uses baseline data) and H2b at *d* = 0.31 (124 per group needed; ~154 expected).
+> **H2a is the binding constraint.** It needs 152 per group at follow-up. Divided by 0.70 (30% attrition), that is 216 per group, or **432 at baseline**, which I round up to **N = 440 (220 per arm)** as a small buffer. That baseline N also covers RQ1 (410 needed; RQ1 uses baseline data) and H2b at *d* = 0.31. H2b compares **attendees with non-attendees**, not the invitation groups. Under the H2a assumptions, about 100 of the ~308 follow-up residents attend (25% of 154 + 40% of 154) and ~208 do not. With these unequal groups, power at *d* = 0.31 is .84, because the larger non-attendee group makes up for fewer attendees.
 
 | | Baseline | Follow-up (expected) |
 |---|---|---|
@@ -46,7 +46,7 @@
 | New post-festival residents | n/a | ~100 (not powered; used to describe the community and check for testing effects) |
 
 ### Caveats to report honestly
-1. **H2b at the bias-corrected *d* = 0.18 is not powered** (.44 with the expected 154 per arm). I report it as a sensitivity result, not as a confirmatory test.
+1. **H2b at the bias-corrected *d* = 0.18 is not powered** (.40 with ~100 attendees vs. ~208 non-attendees). I report it as a sensitivity result, not as a confirmatory test.
 2. **ITT and IV estimates for H2b are supplementary.** The invitation raises attendance by only 15 points (25% → 40%). The intention-to-treat effect of the *invitation* on H2b outcomes is therefore about 0.15 × *d* (ITT *d* ≈ 0.05), and power for it is ≈ .08. The IV (complier) estimate (Angrist et al., 1996) recovers *d*, but its standard error is inflated by roughly 1/0.15. The attendee vs. non-attendee ANCOVA is the powered comparison, but attendees self-select, so I interpret it alongside the ITT and IV estimates and never on its own.
 3. **H2c (monitoring-day sign-up and attendance) is not separately powered**, because no local base rate exists. The pilot (§3) gives a first estimate of sign-up rates, and if needed H2c is re-checked with `pwr.2p.test` before the main survey.
 4. **The pilot will re-estimate *r* and attrition.** If the observed pre–post *r* is below .50, or attrition is above 30%, the curves in `output/` show the resulting loss of power.

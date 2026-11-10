@@ -69,7 +69,7 @@ With simulated data, the script runs end to end and writes two figures: `intenti
 
 ### References
 
-de Goede, et al. (2025). *[Actual vs. self-reported online protective behavior; full reference in `examples/behavioral_measurement_examples.md`.]*
+de Goede, M., Leukfeldt, E. R., van der Wagen, W., & van de Weijer, S. (2025). Does protection motivation predict self-protective online behaviour? Comparing self-reported and actual online behaviour using a population-based survey experiment. *Computers in Human Behavior Reports*, 100649. https://doi.org/10.1016/j.chbr.2025.100649
 
 ElHaffar, G., Durif, F., & Dubé, L. (2020). Towards closing the attitude-intention-behavior gap in green consumption: A narrative review of the literature and an overview of future research directions. *Journal of Cleaner Production*, *275*, 122556. https://doi.org/10.1016/j.jclepro.2020.122556
 
@@ -77,4 +77,4 @@ Salazar, G., Monroe, M. C., Ennes, M., Jones, J. A., & Veríssimo, D. (2022). Te
 
 Veríssimo, D., Fiennes, S., & Dunn, M. (2024). Using digital mobile games to increase the support for nature conservation. *Conservation Science and Practice*, *6*(11), e13236. https://doi.org/10.1111/csp2.13236
 
-Wilkie, et al. (2026). *[Reward, nudge and influence levers for participation; full reference to be completed by author.]*
+Wilkie, D. S., Robinson, J. G., Bennett, E. L., & The WCS Wild Meat Group. (2026). Using behavioral science to end the tropical forest wild meat crisis, illustrated by a case example from Central Africa. *Conservation Science and Practice*, *8*(2), e70220. https://doi.org/10.1111/csp2.70220

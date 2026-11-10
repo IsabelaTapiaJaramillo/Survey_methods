@@ -3,7 +3,7 @@
 *Status: **adapted** measure (the Step 03 table has no norm scale; see `../notes.md`).*
 
 - **Construct name:** Perceived in-group norms about tortoise conservation: what people in the respondent's community are seen to **do** (descriptive norm) and to **approve of** (injunctive norm) (Cialdini et al., 1990; Fritsche et al., 2018).
-- **Source / citation:** Adapted from norm items used in SIMPEA studies (e.g., Johnson & Reimer, 2023; *full reference to be completed*), following SIMPEA's definition of in-group norms. The wording is tailored to giant tortoise conservation on Santa Cruz.
+- **Source / citation:** Adapted from norm items used in SIMPEA studies (e.g., Johnson & Reimer, 2023), following SIMPEA's definition of in-group norms. The wording is tailored to giant tortoise conservation on Santa Cruz.
 - **Items (numbered):**
 
 | # | Variable | Norm type | English | Spanish draft |

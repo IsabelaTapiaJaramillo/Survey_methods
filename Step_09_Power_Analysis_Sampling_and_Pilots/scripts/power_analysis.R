@@ -120,7 +120,17 @@ cat("\n=== Planned sample ===\n")
 cat(sprintf("Planned baseline N = %d (%d per arm); expected follow-up = %d (%.0f per arm)\n",
             N_base_planned, n_arm_planned, round(N_base_planned * (1 - attrition)),
             n_arm_follow_exp))
-cat("Plus ~100 new post-festival residents (testing-effect check; not powered).\n\n")
+cat("Plus ~100 new post-festival residents (testing-effect check; not powered).\n")
+
+# H2b compares ATTENDEES vs NON-ATTENDEES (not the invitation arms).
+# Expected attendees at follow-up under the H2a assumptions (25% / 40%):
+n_attend_exp    <- n_arm_follow_exp * p_ctrl + n_arm_follow_exp * p_trt   # ~100
+n_nonattend_exp <- 2 * n_arm_follow_exp - n_attend_exp                    # ~208
+ancova_power_2n <- function(n1, n2, d, r = r_prepost) {
+  pwr.t2n.test(n1 = n1 / (1 - r^2), n2 = n2 / (1 - r^2), d = d, sig.level = alpha)$power
+}
+cat(sprintf("Expected at follow-up: ~%.0f attendees vs ~%.0f non-attendees (unequal groups)\n\n",
+            n_attend_exp, n_nonattend_exp))
 
 driver <- data.frame(
   Test = c("RQ1 regression (1 term, 16 predictors)",
@@ -137,9 +147,12 @@ driver <- data.frame(
   Power_at_planned = c(
     pwr.f2.test(u = u_rq1, v = N_base_planned - k_pred - 1, f2 = f2_rq1)$power,
     pwr.2p.test(h = h_h2a, n = n_arm_follow_exp)$power,
-    ancova_power(n_arm_follow_exp, d_avg),
-    ancova_power(n_arm_follow_exp, d_corr))
+    ancova_power_2n(n_attend_exp, n_nonattend_exp, d_avg),
+    ancova_power_2n(n_attend_exp, n_nonattend_exp, d_corr))
 )
+driver$Power_note <- c("N = 440", "154 per arm",
+                       "~100 attendees vs ~208 non-attendees",
+                       "~100 attendees vs ~208 non-attendees")
 driver$Power_at_planned <- round(driver$Power_at_planned, 2)
 options(width = 200)
 cat("=== Which test drives the sample size? ===\n")
@@ -147,9 +160,12 @@ print(driver, row.names = FALSE, right = FALSE)
 cat(sprintf(paste0(
   "\nH2a is the binding constraint: %.1f (-> 152) per group at follow-up / 0.70 = %d per group\n",
   "= %d minimum at baseline, rounded up to %d (220 per arm) as a small buffer.\n",
-  "That N also covers RQ1 (needs %d) and H2b at d = 0.31 (needs %d per group at follow-up).\n",
-  "H2b at the bias-corrected d = 0.18 is NOT powered at .80; report it as a sensitivity result.\n"),
-  h2a$n, n_h2a_baseline, 2 * n_h2a_baseline, N_base_planned, N_rq1, ceiling(h2b_avg[2])))
+  "That N also covers RQ1 (needs %d) and H2b at d = 0.31 (%d per group if groups were equal;\n",
+  "with the expected ~100 attendees vs ~208 non-attendees, power = %.2f).\n",
+  "H2b at the bias-corrected d = 0.18 is NOT powered at .80 (power = %.2f); report it as a sensitivity result.\n"),
+  h2a$n, n_h2a_baseline, 2 * n_h2a_baseline, N_base_planned, N_rq1, ceiling(h2b_avg[2]),
+  ancova_power_2n(n_attend_exp, n_nonattend_exp, d_avg),
+  ancova_power_2n(n_attend_exp, n_nonattend_exp, d_corr)))
 
 # -----------------------------------------------------------------------------
 # 4b. Caveat: intention-to-treat (ITT) and IV estimates for H2b
@@ -217,13 +233,15 @@ h2b_curve$power <- mapply(ancova_power, h2b_curve$n, h2b_curve$d)
 p3 <- ggplot(h2b_curve, aes(n, power, colour = factor(d))) +
   geom_line(linewidth = 1) + ref_line +
   geom_vline(xintercept = n_h2b, linetype = "dotted") +
-  geom_vline(xintercept = n_arm_follow_exp, colour = "firebrick") +
   annotate("text", x = n_h2b, y = 0.02, hjust = 0, label = paste0("required n = ", n_h2b, " (d = .31)"),
            angle = 90, vjust = -0.5, size = 3.5) +
-  annotate("text", x = n_arm_follow_exp, y = 0.02, hjust = 0, label = "expected n = 154",
-           angle = 90, vjust = 1.5, size = 3.5, colour = "firebrick") +
   labs(title = "H2b: ANCOVA on follow-up, controlling for baseline (r = .50)",
-       x = "n per group at follow-up", y = "Power", colour = "Cohen's d")
+       subtitle = sprintf(paste0("Equal groups shown. Expected: ~%.0f attendees vs ~%.0f non-attendees ",
+                                 "-> power %.2f (d = .31), %.2f (d = .18)"),
+                          n_attend_exp, n_nonattend_exp,
+                          ancova_power_2n(n_attend_exp, n_nonattend_exp, d_avg),
+                          ancova_power_2n(n_attend_exp, n_nonattend_exp, d_corr)),
+       x = "n per group at follow-up (equal groups)", y = "Power", colour = "Cohen's d")
 ggsave(file.path(out_dir, "power_curve_H2b.png"), p3, width = 7, height = 4.5, dpi = 200)
 
 cat("\nPower curves saved to", out_dir, "\n")
