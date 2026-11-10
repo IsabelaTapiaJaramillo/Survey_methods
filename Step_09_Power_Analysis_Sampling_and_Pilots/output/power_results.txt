@@ -1,0 +1,46 @@
+=== Assumptions ===
+alpha = 0.05 | power = 0.80 | attrition = 30% | r(pre,post) = 0.50
+Effect sizes (Bergquist et al., 2023): d = 0.31 (average), d = 0.18 (bias-corrected)
+
+=== RQ1: multiple regression (pwr.f2.test) ===
+u = 1 tested term, f2 = 0.02, 16 predictors in model
+Required denominator df v = 392.4  ->  N = ceiling(v) + k + 1 = 410
+RQ1 uses baseline (first-survey) data, so N applies at baseline.
+
+=== H2a: attendance, invited vs not invited (pwr.2p.test) ===
+p = 0.40 vs 0.25 -> Cohen's h = 0.322
+n per group at follow-up = 151.2 -> 152
+n per group at baseline (/ (1 - 0.30)) = 216.0 -> 216  (total 432)
+
+=== H2b: ANCOVA (pwr.t.test with n x (1 - r^2)) ===
+d = 0.31: t-test n = 164.3 -> ANCOVA n = 123.2 -> 124 per group
+d = 0.18: t-test n = 485.5 -> ANCOVA n = 364.1 -> 365 per group
+
+Sensitivity — power with 124 per group:
+  d = 0.18 : power = 0.37
+  d = 0.25 : power = 0.62
+  d = 0.31 : power = 0.80
+
+=== Planned sample ===
+Planned baseline N = 440 (220 per arm); expected follow-up = 308 (154 per arm)
+Plus ~100 new post-festival residents (testing-effect check; not powered).
+
+=== Which test drives the sample size? ===
+ Test                                   Needed                                               Power_at_planned
+ RQ1 regression (1 term, 16 predictors) N = 410 at baseline                                  0.83            
+ H2a attendance 25% vs 40%              152/group follow-up = 216/group baseline (432 total) 0.81            
+ H2b ANCOVA, d = 0.31                   124/group follow-up = 178/group baseline             0.88            
+ H2b ANCOVA, d = 0.18                   365/group follow-up = 522/group baseline             0.44            
+
+H2a is the binding constraint: 151.2 (-> 152) per group at follow-up / 0.70 = 216 per group
+= 432 minimum at baseline, rounded up to 440 (220 per arm) as a small buffer.
+That N also covers RQ1 (needs 410) and H2b at d = 0.31 (needs 124 per group at follow-up).
+H2b at the bias-corrected d = 0.18 is NOT powered at .80; report it as a sensitivity result.
+
+=== Caveat: ITT on H2b outcomes (compliance gap = 0.15) ===
+  attendance effect d = 0.31 -> ITT d = 0.047 -> power with 154/arm = 0.08
+  attendance effect d = 0.18 -> ITT d = 0.027 -> power with 154/arm = 0.06
+  => ITT/IV estimates for H2b are supplementary; the attendee ANCOVA is the powered (but
+     self-selected) comparison. Interpret it alongside the ITT/IV results.
+
+Power curves saved to Step_09_Power_Analysis_Sampling_and_Pilots/output 

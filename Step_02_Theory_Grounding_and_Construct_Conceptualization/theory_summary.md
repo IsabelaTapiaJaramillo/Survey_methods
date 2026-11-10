@@ -78,6 +78,7 @@ The table below outlines various theories, their main arguments, constructs, con
 | **Team Effectiveness Theory** | Successful team outcomes depend on enabling conditions such as a compelling direction, strong structure, supportive context, and expert coaching. | Enabling conditions, team processes, shared mental models. | Useful for improving the functioning of interdisciplinary research teams and collaborative conservation task forces. | The definitions of "effectiveness" can vary; complex interdisciplinary dynamics can exceed standard models. | Hackman (1987); Stern (2018) |
 | **Accountability Theory** | Individuals act differently when they expect to be evaluated by and have to justify their judgments or actions to others. | Pre-decisional accountability, justification, audience effects. | Can be used to structure institutional design, monitoring, and compliance mechanisms in resource governance. | Too much accountability or the wrong type can cause rigid, risk-averse behavior and stifle innovation. | Tetlock (1983); Stern (2018) |
 | **Project Risk Theory** | Focuses on identifying, assessing, and mitigating risks that threaten project delivery and outcomes. | Risk identification, risk mitigation, probability, impact. | Helpful for structured planning of conservation interventions, anticipating failure points and adaptive management. | Often heavily technical and can sometimes overlook social or political risks if not explicitly integrated. | Stern (2018) |
+| **Social Identity Model of Pro-Environmental Action (SIMPEA), extended with institutional trust and relational values** *(added for ESPM 231 Assignment 2: giant tortoise festival study, Santa Cruz, Galápagos)* | Pro-environmental action is often collective: people act *as group members* when they identify with a group, perceive that the group's norms support the action, and believe the group can succeed together. Identification leads to action only when in-group norms support it. In co-managed protected areas, residents' trust in the conservation institution and their relational values toward nature shape whether group-based motivation turns into participation. | Social (in-group) identification; in-group norms; collective efficacy. Extensions: institutional trust (competence, personal relationships, rules and procedures; Stern & Coleman, 2015); relational values (Chan et al., 2016), treated as stable characteristics; practical barriers as covariates (similar to the TPB's perceived behavioral control). | Fits problems where participation is collective and the tensions are *between groups* (e.g., residents vs. a park authority; island-born vs. mainland-born residents) rather than individual cost–benefit choices, which is why it is preferred here over the TPB. It explains why people who care about a species may still not participate (low trust, unsupportive norms, practical barriers), and it points to group-level interventions (festivals, community events) that act on identity, norms and efficacy. | Identity and norm effects are context-specific and need locally adapted measures (the Step 03 table has no validated scales for identification, norms, efficacy or trust). Group boundaries (who counts as "Galapagueño") are contested. Trust and identity change slowly, so effects over weeks may be small. Cross-sectional SIMPEA paths are easily over-interpreted as causal. | Fritsche et al. (2018); Tajfel & Turner (1979); Stern & Coleman (2015); Chan et al. (2016) |
 
 ---
 
@@ -92,6 +93,8 @@ Bandura, A. (1977). *Social learning theory*. Prentice-Hall.
 Bass, B. M. (1985). *Leadership and performance beyond expectations*. Free Press.
 
 Brehm, J. W. (1966). *A theory of psychological reactance*. Academic Press.
+
+Chan, K. M. A., Balvanera, P., Benessaiah, K., Chapman, M., Díaz, S., Gómez-Baggethun, E., Gould, R., Hannahs, N., Jax, K., Klain, S., Luck, G. W., Martín-López, B., Muraca, B., Norton, B., Ott, K., Pascual, U., Satterfield, T., Tadaki, M., Taggart, J., & Turner, N. (2016). Why protect nature? Rethinking values and the environment. *Proceedings of the National Academy of Sciences*, *113*(6), 1462–1465. https://doi.org/10.1073/pnas.1525002113
 
 Cialdini, R. B., Reno, R. R., & Kallgren, C. A. (1990). A focus theory of normative conduct: Recycling the concept of norms to reduce littering in public places. *Journal of Personality and Social Psychology*, *58*(6), 1015–1026. https://doi.org/10.1037/0022-3514.58.6.1015
 
@@ -136,6 +139,8 @@ Folke, C., Carpenter, S., Walker, B., Scheffer, M., Elmqvist, T., Gunderson, L.,
 Frey, B. S. (1997). *Not just for the money: An economic theory of personal motivation*. Edward Elgar Publishing.
 
 Friestad, M., & Wright, P. (1994). The persuasion knowledge model: How people cope with persuasion attempts. *Journal of Consumer Research*, *21*(1), 1–31.
+
+Fritsche, I., Barth, M., Jugert, P., Masson, T., & Reese, G. (2018). A social identity model of pro-environmental action (SIMPEA). *Psychological Review*, *125*(2), 245–269. https://doi.org/10.1037/rev0000090
 
 Geels, F. W. (2002). Technological transitions as evolutionary reconfiguration processes: A multi-level perspective and a case-study. *Research Policy*, *31*(8–9), 1257–1274.
 
@@ -233,11 +238,15 @@ Shove, E., Pantzar, M., & Watson, M. (2012). *The dynamics of social practice: E
 
 Stern, M. J. (2018). *Social science theory for environmental sustainability: A practical guide*. Oxford University Press.
 
+Stern, M. J., & Coleman, K. J. (2015). The multidimensionality of trust: Applications in collaborative natural resource management. *Society & Natural Resources*, *28*(2), 117–132. https://doi.org/10.1080/08941920.2014.945062
+
 St. John, F. A. V., Keane, A., Edwards-Jones, G., Jones, L., Yarnell, R. W., & Jones, J. P. G. (2014). Identifying indicators of illegal behaviour: carnivore killing in human-managed landscapes. *Proceedings of the Royal Society B: Biological Sciences*, *281*(1779), 20132781.
 
 St. John, F. A. V., Keane, A., Jones, J. P. G., & Milner-Gulland, E. J. (2014). FORUM: Robust study design is as important on the social as it is on the ecological side of applied ecological research. *Journal of Applied Ecology*, *51*(6), 1479-1485. https://doi.org/10.1111/1365-2664.12352
 
 Stryker, S. (1968). Identity salience and role performance: The relevance of symbolic interaction theory for family research. *Journal of Marriage and the Family*, *30*(4), 558-564.
+
+Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. In W. G. Austin & S. Worchel (Eds.), *The social psychology of intergroup relations* (pp. 33–47). Brooks/Cole.
 
 Tetlock, P. E. (1983). Accountability and complexity of thought. *Journal of Personality and Social Psychology*, *45*(1), 74-83.
 
