@@ -28,7 +28,7 @@ The goal is to remove *practical* barriers (Step 03, BAR), so that the remaining
 | Lever | Implementation |
 |---|---|
 | **Reward** | Free transport with **highland pickup points** (and from Puerto Ayora); breakfast and lunch; **families welcome**, with a children's activity |
-| **Nudge** | **Two weekend dates**, with morning and afternoon options; **on-the-spot sign-up** during the survey; **WhatsApp reminder** (with consent) |
+| **Nudge** | **Two weekend dates**, with morning and afternoon options; **on-the-spot sign-up** during the survey; **WhatsApp or text reminder two days before** (with consent) |
 | **Influence** | Invitations also shared by **local guides and community partners** |
 
 **Follow-up for no-shows.** People who sign up but don't attend get a short follow-up call (≤ 5 min) about barriers, **using the same categories as the survey checklist** (work schedule, family care, transport, cost, didn't hear in time / forgot, other). This separates *couldn't* from *didn't want to*.
