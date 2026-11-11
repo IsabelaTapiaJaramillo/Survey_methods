@@ -38,7 +38,7 @@ Complete this worksheet for your primary (confirmatory) hypothesis, then attach 
 | Why you did not rely on a pilot-study estimate alone | Pilot studies (50–100 residents) give very imprecise effect sizes. The pilot is used to test procedures, timing and scale reliability, and to check the assumed correlation among predictors and the attendance rate. |
 
 **Other inputs (assumptions, with source):**
-- **Expected attendance = 30%.** The author's estimate, to be checked in the pilot. Free transport, food and family activities lower barriers, but work and family commitments remain.
+- **Expected attendance = 30%.** The author's estimate, based on her experience working in conservation in the Galápagos and as a resident; to be checked in the pilot. Free transport, food and family activities lower barriers, but work and family commitments remain.
 - **Correlation among identity, trust and RV = .30.** Assumption, to be checked in the pilot.
 - **18 predictors:** 5 focal terms (identity, trust, RV, RV × trust, identity × trust) and 13 covariates (area; origin; occupation with 7 categories = 6 dummies; age; gender; education; years in Galápagos; barrier count).
 

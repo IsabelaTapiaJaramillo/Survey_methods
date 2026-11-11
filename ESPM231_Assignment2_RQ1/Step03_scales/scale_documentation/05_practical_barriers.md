@@ -3,7 +3,7 @@
 *Status: **new** formative checklist (an index, not a reflective scale; reliability coefficients do not apply).*
 
 - **Construct name:** Practical barriers to participating in tortoise conservation activities. This works like the TPB's perceived behavioral control, but it records concrete constraints rather than beliefs.
-- **Source / citation:** The categories (work schedule, family care, transport, cost) come from the Assignment 1 problem analysis; "not hearing about activities in time" was added and approved by the author. They map onto the "opportunity" component of COM-B (Michie et al., 2011).
+- **Source / citation:** The categories (work schedule, family care, transport, cost) come from the Assignment 1 problem analysis and the author's experience working in conservation in the Galápagos and as a Galapagueña; "not hearing about activities in time" was added and approved by the author. They map onto the "opportunity" component of COM-B (Michie et al., 2011).
 - **Items (numbered):** *"Which of the following make it hard for you to take part in tortoise conservation activities? (Select all that apply)"* / *"¿Cuáles de las siguientes cosas le dificultan participar en actividades de conservación de tortugas? (Puede marcar varias)"*
 
 | # | Variable | English | Spanish draft |

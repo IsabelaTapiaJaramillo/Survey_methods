@@ -60,7 +60,8 @@ d_sesoi  <- 0.20
 or_grid  <- c(d_018 = d_to_or(0.18), d_020 = d_to_or(0.20), d_031 = d_to_or(0.31))
 
 attend_rate <- 0.30  # expected share of invited residents who attend the
-                     # monitoring day (author's estimate, to be checked in the
+                     # monitoring day (author's estimate from working in
+                     # conservation in the Galapagos; to be checked in the
                      # pilot; free transport, food and family activities lower
                      # barriers, but work and family barriers remain)
 r_predictors <- 0.30 # assumed correlation among identity, trust and RV
