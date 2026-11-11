@@ -32,7 +32,7 @@
 
 ## Part 2 — Full Item Matrix
 
-*IV = predictor (independent variable), DV = outcome (dependent variable). "Version" = form version (photo order × item order; see `../Step04_design/randomization_plan.md`).*
+*IV = predictor (independent variable), DV = outcome (dependent variable). "Version" = form version (which photo comes first; see `../Step04_design/randomization_plan.md`).*
 
 ### Block 0 — Introduction, consent and screener · 5 min
 
@@ -64,7 +64,7 @@
 
 ### Block 3 — Likert items · 5.5 min · 22 items, 5-point
 
-*Sub-block order is the same for everyone: INT → ID → RV → TRUST (outcome first; trust last because it is the most sensitive). Item order **within** each sub-block is forward or reversed depending on the form version.*
+*Sub-block order is the same for everyone: INT → ID → RV → TRUST (outcome first; trust last because it is the most sensitive). Items within each sub-block appear in the same order for everyone.*
 
 | Block ID | Item text | Research Question(s) | Theoretical Construct | Variable Role | Scale / Source | Response Format | Placement Notes | Justification |
 |---|---|---|---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | `gender`, `education` | ☒ Covariate | ☒ Nominal / ordinal | B4-07, B4-08 | categories | "Prefer not to say" kept as its own level | |
 | `bar_count` (and `bar_*`) | ☒ Covariate | ☒ Count / binary | B4-03 | 0–6 | Item-level | |
 | `gnpd_staff` | ☒ Covariate (sensitivity) | ☒ Binary | B0-06 | 0/1 | n/a | Analyses with and without |
-| `form_version` | ☒ Covariate (sensitivity) | ☒ Nominal | B0-08 | 4 levels | n/a | Order effects |
+| `form_version` | ☒ Covariate (sensitivity) | ☒ Binary | B0-08 | T (tortoise first) / R (ranger first) | n/a | Photo-order effects |
 | `enumerator` | ☒ Random effect | ☒ Nominal | B0-08 | E1–E3 | n/a | Interviewer effects |
 | `prior_particip`, `contact_freq`, `shock_*` | ☒ Covariate (descriptive / sensitivity) | ☒ Binary / ordinal | B4-01, B4-02, B4-04, B2-02 | | Item-level | |
 | `ac_pass` | QC | ☒ Binary | B3-AC1, B4-AC2 | 0/1 | n/a | Pre-registered exclusion: fail **both** checks |
@@ -167,7 +167,7 @@ For every item in the matrix, verify:
 - [x] Sensitive items (income, race/ethnicity, gender, health) are placed at the **end** *(income and ethnicity not asked)*
 - [x] Categories for sensitive items include **inclusive options**
 - [x] Open-ended items have a clear **character limit** and a purpose that justifies the added burden
-- [x] If order is unconstrained, **randomization** within the block is planned and pre-registered *(photo order and item order by form version; `../Step04_design/randomization_plan.md`)*
+- [x] If order is unconstrained, **randomization** within the block is planned and pre-registered *(photo order randomized by form version, `../Step04_design/randomization_plan.md`; item order within scales is kept the same for everyone)*
 
 **Study-specific checks:**
 - [x] ≥ 2 attention checks, framed as comprehension aids (AC1 first third, AC2 final third)

@@ -48,6 +48,5 @@ An earlier, larger version of this proposal also tested a community festival (RQ
 
 ## Still to be reviewed by the author
 
-- The form-version randomization (Step 04 randomization plan)
 - Pilot decision thresholds (Step 09 sampling plan §4)
 - Cognitive-interview probes and invariance testing; the 1998 Special Law statement (Step 03)
