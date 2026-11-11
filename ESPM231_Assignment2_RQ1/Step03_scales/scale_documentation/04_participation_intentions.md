@@ -25,4 +25,4 @@
 - **Fairness / cross-group equivalence considerations:**
   - INT2 (highland monitoring) is easier for highland residents to act on; transport barriers are covariates.
   - INT4 depends on encountering tortoises, which is more common in the highlands and on farms. Area is in every model.
-- **Role in this study:** **Outcome 1 (Y1)** in Model 1 (H1a, H2a, H3a, H4a). Its correlation with attendance (Y2) measures the intention–behavior link (H5).
+- **Role in this study:** **Outcome 1 (Y1)** in Model 1 (H1a, H2a, H3a). Its correlation with attendance (Y2) describes the intention–behavior gap (descriptive).

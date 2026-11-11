@@ -9,7 +9,7 @@
 
 ## 1. Research question
 
-> **RQ1.** How do residents' relational values, identification as Galapagueño/a and trust in conservation institutions **predict** their intentions to participate, and their actual participation, in tortoise conservation across social groups on Santa Cruz?
+> **RQ1.** How do residents' relational values, identification as Galapagueño/a and trust in conservation institutions **predict** their intentions to participate, and their actual participation, in tortoise conservation across social groups on Santa Cruz Island, Galápagos?
 
 The study has one survey and no intervention, so results are described as **predictions or associations**, not causes (Step 04 checklist: "No causal inference about intervention effects is claimed").
 
@@ -43,15 +43,15 @@ Residents' participation in tortoise conservation is shaped by their relationshi
   logit P(Y2 = 1) = the same predictors
 - **Intention–behavior link:** the point-biserial correlation between Y1 and Y2, and a comparison of the predictors' coefficients across the two models.
 
-**Focal predictors** (hypotheses): identity, trust, RV and the two trust interactions. **Covariates** (no hypotheses; included so that focal estimates compare similar people, and reported to describe group differences): area, occupation (7 categories), origin, age, gender, education, years in Galápagos and practical-barrier count. In total, each model has 18 predictors.
+**Focal terms:** RV (H1), identity (H2) and RV × trust (H3, the confirmatory moderation). Identity × trust is exploratory. The main effect of trust must be in the model for the interactions to be interpretable (Aiken & West, 1991); it is estimated and reported but carries no hypothesis. **Covariates** (no hypotheses; included so that focal estimates compare similar people, and reported to describe group differences): area, occupation (7 categories), origin, age, gender, education, years in Galápagos and practical-barrier count. In total, each model has 18 predictors.
 
-## 5. Hypotheses *(draft wording for the author's review)*
+## 5. Hypotheses *(reviewed by the author, 2026-11-11)*
 
 - **H1.** Residents with stronger relational values will report stronger intentions to participate (H1a) and will be more likely to attend the monitoring day (H1b).
 - **H2.** Residents who identify more strongly as Galapagueño/a will report stronger intentions (H2a) and will be more likely to attend (H2b).
-- **H3.** Trust in conservation institutions will predict intentions (H3a) and attendance (H3b) beyond relational values and identity.
-- **H4 (moderation).** The associations of relational values and identity with intentions (H4a) and with attendance (H4b) will be stronger among residents with higher trust. Residents with strong relational values but low trust will intend and participate less than those with strong relational values and high trust.
-- **H5.** Intentions and attendance will be positively correlated, but many residents who intend to participate will not attend (the intention–behavior gap; Step 07).
+- **H3 (moderation).** Trust in conservation institutions will moderate the association between relational values and participation: relational values will predict intentions (H3a) and attendance (H3b) more strongly among residents with higher trust. Residents with strong relational values but low trust will intend and participate less than those with strong relational values and high trust.
+- **Exploratory.** Whether trust also moderates the association between identity and participation (identity × trust).
+- **Descriptive.** The correlation between intentions and attendance, and the share of residents who intend to participate but do not attend (the intention–behavior gap; Step 07).
 
 ## 6. From constructs to measures
 
@@ -69,6 +69,8 @@ Residents' participation in tortoise conservation is shaped by their relationshi
 ---
 
 ### References
+
+Aiken, L. S., & West, S. G. (1991). *Multiple regression: Testing and interpreting interactions*. Sage.
 
 Ajzen, I. (1991). The theory of planned behavior. *Organizational Behavior and Human Decision Processes*, *50*(2), 179–211. https://doi.org/10.1016/0749-5978(91)90020-T
 

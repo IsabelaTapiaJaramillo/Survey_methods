@@ -29,8 +29,8 @@
 - **Validation notes:**
   - In the pilot, I will compare two CFA models: a 3-factor model (correlated trust types) and a 1-factor model. If the 3-factor model does not fit better, the total score is used in confirmatory tests.
   - Expected convergent validity: trust correlates with prior participation in GNPD activities.
-  - Expected discriminant validity: trust is distinct from relational values. A high-RV, low-trust group is predicted (H4), which itself supports discriminant validity.
+  - Expected discriminant validity: trust is distinct from relational values. A high-RV, low-trust group is predicted (H3), which itself supports discriminant validity.
 - **Fairness / cross-group equivalence considerations:**
   - **Sensitivity:** Residents may fear that critical answers reach the GNPD. Consent states that the research team is independent, names are stored separately from answers, and **the GNPD never sees individual data**. Trust items come *after* the relational-values and identity blocks, not at the start.
   - The **procedural items may mean different things** to fishers and farmers, who encounter GNPD rules directly (fishing zoning, tortoise movement across farms), than to tourism workers. I will test invariance across occupation.
-- **Role in this study:** Focal predictor (H3) and **moderator** of the RV and identity associations with intentions and attendance (H4: RV × trust, identity × trust). GNPD employees are flagged with a separate yes/no question, and results are checked with and without them, because for them the items describe their own employer.
+- **Role in this study:** **Moderator** of the association between relational values and participation (H3: RV × trust); identity × trust is exploratory. Its main effect is in both models, as required for the interactions, but carries no hypothesis. GNPD employees are flagged with a separate yes/no question, and results are checked with and without them, because for them the items describe their own employer.

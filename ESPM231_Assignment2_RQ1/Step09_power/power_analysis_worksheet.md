@@ -13,7 +13,7 @@ Complete this worksheet for your primary (confirmatory) hypothesis, then attach 
 | Field | Your entry |
 |---|---|
 | Study title | Relational values, identity, trust and participation in giant tortoise conservation on Santa Cruz Island, Galápagos |
-| Primary hypothesis (H1) | **H4 (moderation):** trust in the GNPD strengthens the association of relational values (and of identification) with participation. Tested as the RV × trust and identity × trust terms in both models. Also powered: the main effect of trust (H3). |
+| Primary hypothesis (H1) | **H3 (moderation):** trust in the GNPD strengthens the association between relational values and participation, tested as the RV × trust term in both models. To be conservative, the sample size also gives 80% power for the identity × trust term (exploratory) and the main effect of trust. |
 | Primary outcome and how it is measured | **Y1:** participation intentions (mean of 5 Likert items, 1–5). **Y2:** actual participation, i.e., attendance at a real community tortoise-monitoring day (0/1, sign-in sheet). |
 | Design | ☐ Two groups, between subjects  ☐ BACI (before/after × control/impact)  ☐ ACI (after only, control/impact)  ☐ Within subjects  ☒ Other: **cross-sectional survey predicting outcomes from several variables (non-experimental), with a behavioral follow-up** |
 | Statistical test for H1 | Model 1: *t*-test of one regression coefficient in a linear regression with 18 predictors. Model 2: Wald test of one coefficient in a logistic regression with the same 18 predictors. |

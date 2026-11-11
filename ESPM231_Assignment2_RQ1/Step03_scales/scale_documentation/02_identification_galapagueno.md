@@ -21,4 +21,4 @@
   - "Galapagueño/a" is a **contested category**. Mainland-born residents (often with decades on the islands) may or may not claim it, and the 1998 Special Law created formal residency categories. Cognitive interviews (8–15) will probe who people think counts as Galapagueño/a, and an *origin* variable is always modeled alongside ID.
   - For mainland-born respondents, if cognitive interviews show the label excludes them, the instruction text will say *"personas que viven en Galápagos"* as an alternative wording, and a **wording-version flag** will be recorded.
   - I will test invariance across origin (island-born vs. mainland-born) before comparing means.
-- **Role in this study:** Focal predictor of intentions and attendance (H2), and part of the identity × trust interaction (H4). Measured once, in the single survey.
+- **Role in this study:** Focal predictor of intentions and attendance (H2), and part of the identity × trust interaction (exploratory). Measured once, in the single survey.
