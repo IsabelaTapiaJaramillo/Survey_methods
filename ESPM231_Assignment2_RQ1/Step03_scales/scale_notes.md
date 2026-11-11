@@ -30,8 +30,8 @@ The Step 03 reference table covers values and worldviews, environmental identity
 
 1. **Forward translation** into Galápagos Spanish, reviewed by the author for local wording (e.g., *"la parte alta"*, *"DPNG"*).
 2. **Independent back-translation** (Brislin, 1970), with discrepancies reconciled and logged.
-3. **Cognitive interviews with 8–15 residents** across quota groups (Willis, 2005).
-4. **Pilot survey with 50–100 residents** (not in the main sample): α and ω, item–total correlations and CFA for each multi-item measure (Step 09 plan).
+3. **Cognitive interviews with 8 residents** across quota groups (Willis, 2005).
+4. **Pilot survey with 30 residents** (not in the main sample): α and ω, item–total correlations and CFA for each multi-item measure (Step 09 plan).
 
 ## 4. Cross-group equivalence
 

@@ -163,7 +163,7 @@ For every item in the matrix, verify:
 - [x] The response options are **mutually exclusive** *(exclusive "none" and "nothing" options; occupation classified by type of work)*
 - [x] The item is free of **double-barrelled** language *(RV3 and RV4 are long verbatim Klain items, kept unchanged; to be checked in cognitive interviews)*
 - [x] The item avoids **leading** or **loaded** phrasing
-- [ ] The item is readable at the education level of the target population *(pending cognitive interviews with 8–15 residents; all items read aloud with show cards)*
+- [ ] The item is readable at the education level of the target population *(pending cognitive interviews with 8 residents; all items read aloud with show cards)*
 - [x] Sensitive items (income, race/ethnicity, gender, health) are placed at the **end** *(income and ethnicity not asked)*
 - [x] Categories for sensitive items include **inclusive options**
 - [x] Open-ended items have a clear **character limit** and a purpose that justifies the added burden
