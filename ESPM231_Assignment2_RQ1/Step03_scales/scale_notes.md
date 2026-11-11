@@ -40,7 +40,7 @@ Groups (area, occupation, origin) are covariates in every model, so it matters t
 - contact with GNPD rules, which differs across occupations;
 - possible ceiling effects on RV (Klain et al., 2017: mean 4.4 among Costa Rican farmers).
 
-*Items still awaiting the author's review:* the cognitive-interview probes, the invariance testing, and the statement about the 1998 Special Law in `02_identification_galapagueno.md`.
+*Items still awaiting the author's review:* the cognitive-interview probes and the invariance testing.
 
 ---
 
