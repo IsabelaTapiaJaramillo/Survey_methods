@@ -18,7 +18,7 @@
 - **Response format:** 5-point Likert (1 = *Totalmente en desacuerdo* / Strongly disagree … 5 = *Totalmente de acuerdo* / Strongly agree), as in the original. Read aloud by the enumerator, with a show card on the tablet.
 - **Scoring rules:** Mean of RV1–RV6 (range 1–5; higher = stronger relational values). No reverse-coded items. A score is computed if at least 5 of 6 items are answered; otherwise it is missing.
 - **Known reliability:** Cronbach's α = .80 (full data set, N = 913): .73 among Costa Rican farmers, .79 among tourists in Costa Rica and .79 on M-Turk (Klain et al., 2017, Table 4). I will report α and McDonald's ω for the pilot and main samples.
-- **Validation notes:** Klain et al. (2017) showed the six statements cluster as one index that is distinct from the NEP. Farmers agreed strongly (mean 4.4), so ceiling effects are a risk in rural Galápagos. The pilot will check the response distribution and fit a one-factor CFA.
+- **Validation notes:** Klain et al. (2017) showed the six statements cluster as one index that is distinct from the NEP. Farmers agreed strongly (mean 4.4), so ceiling effects are a risk in rural Galápagos. The pilot will check the response distribution; a one-factor CFA is fitted in the main sample.
 - **Fairness / cross-group equivalence considerations:**
   - The closest validated sample is rural Latin American (Costa Rican farmers), which supports use in the Galápagos highlands.
   - Cognitive interviews will probe *"kin"/familia*, which may read as literal or religious, and *"lugares silvestres"* (wild places), which may be read as the National Park specifically.

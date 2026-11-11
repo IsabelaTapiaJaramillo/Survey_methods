@@ -27,7 +27,7 @@
   - The share of "No sé" answers is reported by quota cell, as an indicator of institutional distance.
 - **Known reliability:** New measure, with no prior estimates. Pilot targets: ω ≥ .70 for the total score. With only 2 items per subscale, I will report the Spearman–Brown coefficient for each subscale rather than α (Eisinga et al., 2013).
 - **Validation notes:**
-  - In the pilot, I will compare two CFA models: a 3-factor model (correlated trust types) and a 1-factor model. If the 3-factor model does not fit better, the total score is used in confirmatory tests.
+  - In the main sample, before hypothesis testing, I will compare two CFA models: a 3-factor model (correlated trust types) and a 1-factor model. If the 3-factor model does not fit better, the total score is used in confirmatory tests.
   - Expected convergent validity: trust correlates with prior participation in GNPD activities.
   - Expected discriminant validity: trust is distinct from relational values. A high-RV, low-trust group is predicted (H3), which itself supports discriminant validity.
 - **Fairness / cross-group equivalence considerations:**

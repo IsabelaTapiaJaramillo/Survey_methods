@@ -18,7 +18,7 @@
 - **Scoring rules:**
   - Mean of INT1–INT5 (range 1–5), computed if at least 4 of 5 items are answered.
   - **INT2 is also analyzed on its own** as the stated counterpart of the behavioral measure: high intention = 4–5 on INT2 (Step 07).
-- **Known reliability:** New measure. The pilot target is α/ω ≥ .70, with a one-factor CFA.
+- **Known reliability:** New measure. The pilot target is α/ω ≥ .70; a one-factor CFA is checked in the main sample.
 - **Validation notes:**
   - Predictive validity is tested directly: INT2 → monitoring-day sign-up and attendance (Step 07). Intentions are expected to overestimate behavior (ElHaffar et al., 2020); the size of this gap is a finding, not a flaw.
   - INT5 mentions the GNPD. If its correlation with trust is much higher than that of the other INT items, I will report a sensitivity score without INT5.

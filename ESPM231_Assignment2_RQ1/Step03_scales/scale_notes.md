@@ -31,11 +31,11 @@ The Step 03 reference table covers values and worldviews, environmental identity
 1. **Forward translation** into Galápagos Spanish, reviewed by the author for local wording (e.g., *"la parte alta"*, *"DPNG"*).
 2. **Independent back-translation** (Brislin, 1970), with discrepancies reconciled and logged.
 3. **Cognitive interviews with 8 residents** across quota groups (Willis, 2005).
-4. **Pilot survey with 30 residents** (not in the main sample): α and ω, item–total correlations and CFA for each multi-item measure (Step 09 plan).
+4. **Pilot survey with 30 residents** (not in the main sample): α and ω and item–total correlations for each multi-item measure, as a rough check. CFA for each measure is run on the main sample before hypothesis testing, because 30 people is too few (Step 09 plan).
 
 ## 4. Cross-group equivalence
 
-Groups (area, occupation, origin) are covariates in every model, so it matters that the scales mean the same thing in each group. In the pilot and main data, multi-group CFA tests whether loadings and intercepts are equal across area and origin before group means are compared. Expected sources of difference:
+Groups (area, occupation, origin) are covariates in every model, so it matters that the scales mean the same thing in each group. In the main data, multi-group CFA tests whether loadings and intercepts are equal across area and origin before group means are compared. Expected sources of difference:
 - the meaning of "Galapagueño/a" for island-born vs. mainland-born residents;
 - contact with GNPD rules, which differs across occupations;
 - possible ceiling effects on RV (Klain et al., 2017: mean 4.4 among Costa Rican farmers).
