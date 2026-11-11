@@ -3,7 +3,7 @@
 *Status: **new** measure (behavior-specific intentions are always written for the target behavior; format follows Step 07 example B-04, Veríssimo et al., 2024). Wording and the 3-month time frame reviewed and approved by the author, 2026-11-10.*
 
 - **Construct name:** Intentions to participate in giant tortoise conservation on Santa Cruz over the next three months. This is the main self-reported **dependent variable**.
-- **Source / citation:** The structure follows behavioral-intention items (Fishbein & Ajzen, 2010) and the B-04 example in `Step_07/examples/` (intentions to donate, volunteer or support policy, rated on a 5-point likelihood scale). The specific behaviors reflect local forms of participation identified in my 2024 *Guardians of the Giant Tortoises* program.
+- **Source / citation:** The structure follows behavioral-intention items (Fishbein & Ajzen, 2010) and the B-04 example in `Step_07/examples/` (intentions to donate, volunteer or support policy, rated on a 5-point likelihood scale). The specific behaviors are local forms of participation in tortoise conservation, chosen by the author.
 - **Items (numbered):** Stem: *"In the next three months, how likely is it that you will…"* / *"En los próximos tres meses, ¿qué tan probable es que usted…"*
 
 | # | Variable | English | Spanish draft |
