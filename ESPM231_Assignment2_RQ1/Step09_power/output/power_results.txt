@@ -1,0 +1,70 @@
+R version: R version 4.5.2 (2025-10-31) | pwr 1.3.0 | MASS 7.3.65 
+
+=== Assumptions ===
+alpha = 0.05 (two-sided) | power = 0.80 | k = 18 predictors
+SESOI: f2 = 0.02 (intention); d = 0.20 -> OR = 1.44 per SD (behavior)
+Attendance = 30% | r among focal predictors = 0.30 | non-response = 5%
+
+=== Model 1: intention (pwr.f2.test, one tested term) ===
+f2 = 0.02, u = 1, k = 18 -> v = 392.4 -> N = 412
+Sensitivity (f2 for one term -> N):
+    f2   N
+ 0.010 804
+ 0.020 412
+ 0.035 244
+ 0.050 176
+
+=== Model 2: behavior (logistic; 1000 simulations per cell) ===
+ effect   OR   N trust rv_x_trust id_x_trust min_power
+  d_018 1.39 300  0.62       0.61       0.59      0.59
+  d_018 1.39 325  0.65       0.66       0.64      0.64
+  d_018 1.39 350  0.67       0.68       0.69      0.67
+  d_018 1.39 375  0.70       0.73       0.69      0.69
+  d_018 1.39 400  0.72       0.73       0.72      0.72
+  d_018 1.39 425  0.74       0.79       0.73      0.73
+  d_018 1.39 450  0.79       0.76       0.78      0.76
+  d_018 1.39 475  0.82       0.83       0.80      0.80
+  d_018 1.39 500  0.83       0.83       0.82      0.82
+  d_018 1.39 525  0.83       0.86       0.84      0.83
+  d_018 1.39 550  0.85       0.86       0.88      0.85
+  d_018 1.39 575  0.88       0.86       0.88      0.86
+  d_018 1.39 600  0.88       0.88       0.88      0.88
+  d_020 1.44 300  0.71       0.64       0.68      0.64
+  d_020 1.44 325  0.72       0.69       0.72      0.69
+  d_020 1.44 350  0.75       0.73       0.75      0.73
+  d_020 1.44 375  0.78       0.75       0.77      0.75
+  d_020 1.44 400  0.81       0.80       0.76      0.76
+  d_020 1.44 425  0.83       0.82       0.81      0.81
+  d_020 1.44 450  0.86       0.83       0.86      0.83
+  d_020 1.44 475  0.87       0.86       0.86      0.86
+  d_020 1.44 500  0.87       0.89       0.88      0.87
+  d_020 1.44 525  0.90       0.92       0.91      0.90
+  d_020 1.44 550  0.91       0.90       0.91      0.90
+  d_020 1.44 575  0.92       0.93       0.92      0.92
+  d_020 1.44 600  0.92       0.93       0.94      0.92
+  d_031 1.75 300  0.94       0.91       0.90      0.90
+  d_031 1.75 325  0.94       0.93       0.92      0.92
+  d_031 1.75 350  0.97       0.94       0.93      0.93
+  d_031 1.75 375  0.98       0.96       0.95      0.95
+  d_031 1.75 400  0.98       0.97       0.97      0.97
+  d_031 1.75 425  0.98       0.98       0.97      0.97
+  d_031 1.75 450  0.98       0.98       0.98      0.98
+  d_031 1.75 475  0.99       0.99       0.98      0.98
+  d_031 1.75 500  0.99       0.99       0.99      0.99
+  d_031 1.75 525  1.00       1.00       0.99      0.99
+  d_031 1.75 550  1.00       1.00       0.99      0.99
+  d_031 1.75 575  1.00       1.00       1.00      1.00
+  d_031 1.75 600  1.00       1.00       1.00      1.00
+
+Smallest N in the grid with power >= 0.80 for ALL three focal tests at the SESOI (OR = 1.44): 425
+
+=== Y1-Y2 correlation (point-biserial) ===
+Smallest correlation detectable with N = 425: r = 0.14
+
+=== Sample size decision ===
+Intention model needs 412; behavior model needs 425 -> analysable N = 425
+Recruit N = 425 / (1 - 0.05) = 450 (rounded up to a multiple of 5)
+Field effort: 3 enumerators x ~8 surveys/day -> ~19 field days
+Behavior model, lowest focal power at N = 425: d = .18 -> 0.73 | d = .20 -> 0.81 | d = .31 -> 0.97
+
+Power curves saved to ESPM231_Assignment2_RQ1/Step09_power/output 
