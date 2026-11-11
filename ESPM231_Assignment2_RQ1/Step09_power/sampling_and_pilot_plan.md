@@ -17,7 +17,7 @@
 | Occupation | Farming · fishing · tourism · naturalist guide · conservation & research · education & public services · other |
 | Origin | Born in Galápagos vs. born in mainland Ecuador (other countries recorded) |
 
-Quota targets are set in proportion to the most recent Galápagos census and adjusted after the pilot. Small occupations (e.g., conservation & research) get a minimum target of about 30 people, so their estimates are not too imprecise. Occupation is classified by the **type of work**, not the employer, so teachers in public and private schools are both in "education & public services". GNPD employees are flagged with a separate question.
+Quota targets are set in proportion to the most recent Galápagos census and adjusted after the pilot. There is no minimum per occupation: occupation is a control variable, not a group being compared. Any occupation with fewer than 10 people in the final sample is merged with the most similar category before the main analysis (e.g., naturalist guide into tourism), and the final count for each occupation is reported. *(Merge rule and the cutoff of 10 proposed by Claude as a rule of thumb, approved by the author 2026-11-11.)* Occupation is classified by the **type of work**, not the employer, so teachers in public and private schools are both in "education & public services". GNPD employees are flagged with a separate question.
 
 ## 3. Recruitment
 
