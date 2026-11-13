@@ -45,7 +45,3 @@ Packages: `pwr`, `MASS` (included with R). The power script takes a few minutes 
 ## Earlier version
 
 An earlier, larger version of this proposal also tested a community festival (RQ2). It is saved for future work on the branch [`assignment-2-tortoise-festival`](https://github.com/IsabelaTapiaJaramillo/Survey_methods/tree/assignment-2-tortoise-festival).
-
-## Still to be reviewed by the author
-
-- Pilot decision thresholds (Step 09 sampling plan §4)
