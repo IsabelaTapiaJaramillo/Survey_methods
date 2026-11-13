@@ -28,7 +28,7 @@ Everything for this assignment is in this folder.
    - Intention (Y1) = identity + trust + relational values + RV × trust + identity × trust + covariates (linear).
    - Attendance (Y2), with the same predictors (logistic).
    - Plus the correlation between Y1 and Y2.
-3. **Hypotheses:** relational values (H1) and identity (H2) predict intentions and attendance; trust in the GNPD **moderates** the link from relational values to participation (H3). Identity × trust is exploratory.
+3. **Hypotheses:** relational values (H1) and identity (H2) predict intentions and attendance; trust in the GNPD **moderates** the link from relational values to participation (H3) and also predicts participation directly (H4). Identity × trust is exploratory.
 4. **Covariates:** area, occupation (7 categories), origin, age, gender, education, years in Galápagos, practical-barrier count.
 5. **Sample:** quota sampling, **recruit 450 for 425 complete surveys**. That N gives 80% power for a small effect (f² = .02 / OR = 1.44), assuming 30% of residents attend.
 

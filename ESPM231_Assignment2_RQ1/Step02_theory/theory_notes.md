@@ -21,7 +21,7 @@ Residents' participation in tortoise conservation is shaped by their relationshi
 
 - **Identity: Social Identity Theory** (Tajfel & Turner, 1979) and the **Social Identity Model of Pro-Environmental Action** (SIMPEA; Fritsche et al., 2018). People act on environmental issues *as group members*, so identifying as Galapagueño/a, a group for which giant tortoises are a symbol, should predict participation. SIMPEA also proposes that in-group norms and collective efficacy shape when identity leads to action. **This study tests the identity pathway only; norms and collective efficacy are left for future work.**
 - **Relational values** (Chan et al., 2016): values about the *relationships* between people and nature (care, kinship, responsibility, identity), treated as a stable characteristic.
-- **Trust in conservation institutions** (Stern & Coleman, 2015), with three types: **competence**, **personal relationships** and **rules and procedures**. Trust is the **moderator**. Caring (RV) and belonging (identity) lead to participation mainly when residents trust the institution through which participation happens.
+- **Trust in conservation institutions** (Stern & Coleman, 2015), with three types: **competence**, **personal relationships** and **rules and procedures**. Trust is expected to **predict participation directly** (H4) and to **moderate** the effect of relational values (H3): caring about nature leads to participation mainly when residents trust the institution through which participation happens. Whether trust also moderates identity is exploratory.
 - **Practical barriers** (work schedule, family care, transport, cost, not hearing in time) are measured and included as a **covariate** (barrier count). They play a role similar to perceived behavioral control in the Theory of Planned Behavior (Ajzen, 1991).
 
 **Conceptual model** (moderation):
@@ -43,13 +43,14 @@ Residents' participation in tortoise conservation is shaped by their relationshi
   logit P(Y2 = 1) = the same predictors
 - **Intention–behavior link:** the point-biserial correlation between Y1 and Y2, and a comparison of the predictors' coefficients across the two models.
 
-**Focal terms:** RV (H1), identity (H2) and RV × trust (H3, the confirmatory moderation). Identity × trust is exploratory. The main effect of trust must be in the model for the interactions to be interpretable (Aiken & West, 1991); it is estimated and reported but carries no hypothesis. **Covariates** (no hypotheses; included so that focal estimates compare similar people, and reported to describe group differences): area, occupation (7 categories), origin, age, gender, education, years in Galápagos and practical-barrier count. In total, each model has 18 predictors.
+**Focal terms:** RV (H1), identity (H2), RV × trust (H3, the confirmatory moderation) and trust (H4). Identity × trust is exploratory. The main effect of trust also has to be in the model for the interactions to be tested correctly (Aiken & West, 1991). **Covariates** (no hypotheses; included so that focal estimates compare similar people, and reported to describe group differences): area, occupation (7 categories), origin, age, gender, education, years in Galápagos and practical-barrier count. In total, each model has 18 predictors.
 
-## 5. Hypotheses *(reviewed by the author, 2026-11-11)*
+## 5. Hypotheses *(reviewed by the author, 2026-11-11; H4 added by the author, 2026-11-12)*
 
 - **H1.** Residents with stronger relational values will report stronger intentions to participate (H1a) and will be more likely to attend the monitoring day (H1b).
 - **H2.** Residents who identify more strongly as Galapagueño/a will report stronger intentions (H2a) and will be more likely to attend (H2b).
-- **H3 (moderation).** Trust in conservation institutions will moderate the association between relational values and participation: relational values will predict intentions (H3a) and attendance (H3b) more strongly among residents with higher trust. Residents with strong relational values but low trust will intend and participate less than those with strong relational values and high trust.
+- **H3 (moderation).** Trust in the GNPD will strengthen the association between relational values and participation: relational values will predict intentions (H3a) and attendance (H3b) more strongly among residents with higher trust.
+- **H4.** Residents with higher trust in the GNPD will report stronger intentions (H4a) and will be more likely to attend (H4b).
 - **Exploratory.** Whether trust also moderates the association between identity and participation (identity × trust).
 - **Descriptive.** The correlation between intentions and attendance, and the share of residents who intend to participate but do not attend (the intention–behavior gap; Step 07).
 
@@ -59,7 +60,7 @@ Residents' participation in tortoise conservation is shaped by their relationshi
 |---|---|---|---|
 | Relational values (Chan et al., 2016) | Stable | **Relational Values scale, 6 items (Klain et al., 2017): validated, from the Step 03 table** | Focal predictor |
 | Identification as Galapagueño/a | Fairly stable | 4 items adapted from Leach et al. (2008) | Focal predictor |
-| Trust in the GNPD (Stern & Coleman, 2015) | Mid-range | 6 items written for this study, 2 per trust type, with a "No sé" option | Focal predictor; moderator |
+| Trust in the GNPD (Stern & Coleman, 2015) | Mid-range | 6 items written for this study, 2 per trust type, with a "No sé" option | Focal predictor (H4); moderator (H3) |
 | Participation intentions (Y1) | Mid-range | 5 items written for this study, including willingness to join a monitoring day | **Outcome 1** |
 | Monitoring-day participation (Y2) | Behavior | Sign-up and attendance (sign-in sheet; Step 07) | **Outcome 2** |
 | Practical barriers | Situational | Checklist (7 options) | Covariate (barrier count); explains no-shows |

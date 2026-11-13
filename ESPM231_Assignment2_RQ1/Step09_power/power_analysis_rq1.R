@@ -18,8 +18,8 @@
 #     practical-barrier count (1).
 #   Total predictors k = 5 focal + 13 covariates = 18.
 #
-#   Tests powered: RV x trust (confirmatory, H3), identity x trust (exploratory)
-#   and the main effect of trust (conservative check).
+#   Tests powered: RV x trust (confirmatory, H3), the main effect of trust
+#   (H4) and identity x trust (exploratory).
 #
 # Run from the repository root:
 #   Rscript ESPM231_Assignment2_RQ1/Step09_power/power_analysis_rq1.R

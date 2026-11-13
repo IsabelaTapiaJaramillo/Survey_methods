@@ -115,7 +115,7 @@ scheme design) where no real-world BACI intervention is feasible.
 
 | Field | Your entry |
 |---|---|
-| Focal constructs | **Predictors:** relational values, identification as Galapagueño/a, trust in the GNPD (moderator). **Outcomes:** participation intentions (Y1); actual participation, i.e., attendance at a real community tortoise-monitoring day (Y2). **Covariates:** area, occupation, origin, age, gender, education, years in Galápagos, practical-barrier count. |
+| Focal constructs | **Predictors:** relational values, identification as Galapagueño/a, trust in the GNPD (predictor and moderator). **Outcomes:** participation intentions (Y1); actual participation, i.e., attendance at a real community tortoise-monitoring day (Y2). **Covariates:** area, occupation, origin, age, gender, education, years in Galápagos, practical-barrier count. |
 | Stability classification | **Trait-like / stable:** relational values, identification. **Attitude / mid-range:** trust, intentions. **Behavior:** monitoring-day sign-up and attendance. |
 | Intervention present | **No** |
 | Pre-measurement feasible | **Not applicable** (no intervention) |
