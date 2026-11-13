@@ -22,5 +22,5 @@
 - **Fairness / cross-group equivalence considerations:**
   - The closest validated sample is rural Latin American (Costa Rican farmers), which supports use in the Galápagos highlands.
   - Cognitive interviews will probe *"kin"/familia*, which may read as literal or religious, and *"lugares silvestres"* (wild places), which may be read as the National Park specifically.
-  - In the pilot, I will test measurement invariance (configural/metric) across area, origin and occupation before comparing group means. If invariance fails, I will compare groups using latent rather than observed means.
+  - In the main sample, measurement invariance is tested across origin only (island-born vs. mainland-born; see `scale_notes.md`, section 4). Area and occupation are covariates.
 - **Role in this study:** Focal predictor of intentions (Model 1) and attendance (Model 2) (H1), and part of the RV × trust interaction (H3, the confirmatory moderation). Measured once, in the single survey (stable characteristic).

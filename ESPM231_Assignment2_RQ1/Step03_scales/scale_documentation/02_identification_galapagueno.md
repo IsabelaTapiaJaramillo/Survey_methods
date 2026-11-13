@@ -20,5 +20,5 @@
 - **Fairness / cross-group equivalence considerations:**
   - "Galapagueño/a" is a **contested category**. Mainland-born residents (often with decades on the islands) may or may not claim it, and the 1998 Special Law for Galápagos created formal residency categories. People born in the Galápagos may identify as Galapagueños regardless of whether they were born before or after that law. *(Reviewed by the author, 2026-11-11.)* Cognitive interviews (8) will probe who people think counts as Galapagueño/a, and an *origin* variable is always modeled alongside ID.
   - For mainland-born respondents, if cognitive interviews show the label excludes them, the instruction text will say *"personas que viven en Galápagos"* as an alternative wording, and a **wording-version flag** will be recorded.
-  - I will test invariance across origin (island-born vs. mainland-born) before comparing means.
+  - I will test invariance across origin (island-born vs. mainland-born) in the main sample.
 - **Role in this study:** Focal predictor of intentions and attendance (H2), and part of the identity × trust interaction (exploratory). Measured once, in the single survey.

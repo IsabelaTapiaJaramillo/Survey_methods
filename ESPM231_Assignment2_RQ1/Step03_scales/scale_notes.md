@@ -35,12 +35,13 @@ The Step 03 reference table covers values and worldviews, environmental identity
 
 ## 4. Cross-group equivalence
 
-Groups (area, occupation, origin) are covariates in every model, so it matters that the scales mean the same thing in each group. In the main data, multi-group CFA tests whether loadings and intercepts are equal across area and origin before group means are compared. Expected sources of difference:
-- the meaning of "Galapagueño/a" for island-born vs. mainland-born residents;
-- contact with GNPD rules, which differs across occupations;
-- possible ceiling effects on RV (Klain et al., 2017: mean 4.4 among Costa Rican farmers).
+The hypotheses do not compare groups: area, occupation and origin are control variables in every model. A full test of equivalence across all groups is therefore outside the scope of the study. The one group difference that could change what a scale means is **origin**: "Galapagueño/a" may mean something different to people born in the Galápagos than to people born on the mainland. In the main data, a multi-group CFA tests whether loadings and intercepts are equal for **island-born vs. mainland-born** residents. If a scale does not work the same way in both groups, this is reported, and the models are also run separately by origin as a check. *(Scope decided by the author, 2026-11-12.)*
 
-*Items still awaiting the author's review:* the invariance testing. *(Cognitive-interview probes reviewed and approved by the author, 2026-11-12.)*
+Other possible differences are handled without invariance tests:
+- contact with GNPD rules differs across occupations, so occupation is a covariate in every model;
+- relational-values answers may bunch at the top of the scale (Klain et al., 2017: mean 4.4 among Costa Rican farmers); the response distribution is checked in the pilot.
+
+*All Step 03 items have been reviewed by the author (cognitive-interview probes and invariance scope, 2026-11-12).*
 
 ---
 
