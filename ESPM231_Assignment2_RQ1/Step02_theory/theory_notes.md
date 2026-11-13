@@ -59,6 +59,8 @@ Residents' participation in tortoise conservation is shaped by their relationshi
 
 ### From theory to design
 
+The framework combines SIMPEA with research on relational values and institutional trust; together they guide the main design choices:
+
 - Relational values and identity are treated as stable traits → one **cross-sectional** survey can measure them alongside intentions.
 - Trust is expected to change how relational values work → the models include an **RV × trust interaction**, and trust is asked **last** because it is the most sensitive topic.
 - Earlier SIMPEA studies stopped at intentions → the study records **actual attendance** at a monitoring day (Step 07).
