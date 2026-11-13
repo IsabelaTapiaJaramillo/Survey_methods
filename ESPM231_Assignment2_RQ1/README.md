@@ -49,4 +49,4 @@ An earlier, larger version of this proposal also tested a community festival (RQ
 ## Still to be reviewed by the author
 
 - Pilot decision thresholds (Step 09 sampling plan §4)
-- Cognitive-interview probes and invariance testing (Step 03)
+- Invariance testing (Step 03)
