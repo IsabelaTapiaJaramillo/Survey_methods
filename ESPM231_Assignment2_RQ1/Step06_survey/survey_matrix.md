@@ -25,7 +25,7 @@
 | **Estimated duration** | **25 min** (5 min introduction, context and consent, plus 20 min of questions) |
 | **Primary research questions** | RQ1: How do residents' relational values, identification as Galapagueño/a and trust in conservation institutions predict their intentions to participate, and their actual participation, in tortoise conservation across social groups on Santa Cruz Island, Galápagos? |
 | **Pre-registration DOI / link** | OSF, to be registered before data collection (Step 05) |
-| **IRB / Ethics approval #** | UC Berkeley CPHS: *pending*. Galápagos research permit (GNPD): *pending* |
+| **IRB / Ethics approval #** | UC Berkeley CPHS: *pending* |
 | **Stimulus materials (if any)** | Two photos (a giant tortoise; a park ranger); a map of Santa Cruz for the heat map; the monitoring-day invitation |
 
 ---
