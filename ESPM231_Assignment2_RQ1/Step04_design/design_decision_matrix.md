@@ -2,7 +2,7 @@
 
 Use this matrix to select the appropriate study design given your construct type, research goal, and practical constraints. Circle or highlight the row that matches your situation and carry that design code into `study_design_checklist.md`.
 
-*ESPM 231 Assignment 2 (RQ1 only), Isabela Tapia-Jaramillo. The selected row is marked ✅.*
+*ESPM 231 Assignment 2 (RQ1 only), Isabela Tapia-Jaramillo. The selected row is in bold.*
 
 ### Key Terms
 - **BACI (Before-After Control-Impact):** A classic experimental design where you measure both a treatment group (Impact) and a comparison group (Control) both *before* and *after* an intervention. This allows you to account for pre-existing differences and environmental changes over time.
@@ -16,7 +16,7 @@ Use this matrix to select the appropriate study design given your construct type
 |---|---|---|---|---|
 | Trait-like (values, worldviews) | Describe population distribution | No | **Cross-sectional** | Single snapshot is sufficient |
 | Trait-like (values, worldviews) | Detect change over time | No | **Longitudinal panel (multi-year)** | Weeks are insufficient; plan for years |
-| ✅ **Attitude (policy support, wildlife attitudes)** | **Describe and predict** | **No** | **Cross-sectional** ← *selected* | Add covariates for temporal context. *This study: one survey predicting intentions and actual participation (monitoring-day attendance) from relational values, identification and trust; temporal-context covariates in Part 4.* |
+| **Attitude (policy support, wildlife attitudes)** | **Describe and predict** | **No** | **Cross-sectional** ← *selected* | Add covariates for temporal context. *This study: one survey predicting intentions and actual participation (monitoring-day attendance) from relational values, identification and trust; temporal-context covariates in Part 4.* |
 | Attitude | Test causal effect of stimulus | Yes — pre-measurement feasible | **BACI** | Gold standard; randomize if possible |
 | Attitude | Test causal effect — pre-measurement impossible or sensitizing | Yes | **ACI / natural experiment** | Cannot estimate within-individual change |
 | State (affect, mood, situational emotion) | Capture real-time fluctuation | No | **Experience sampling / diary** | Single survey misses variation |
@@ -76,17 +76,16 @@ Use the table below BEFORE launch to actively map out these risks. Rate each one
 
 Rate each factor Low / Medium / High for your data collection window.
 
-**Key for the last column:** ✅ = from the author's notes or fieldwork knowledge, or reviewed and confirmed by the author (2026-11-10).
 
-| Factor | Risk level | Action if Medium/High *(Ale's original text)* | This study: notes and sources |
+| Factor | Risk level | Action if Medium/High | This study: notes and sources |
 |---|---|---|---|
-| Data collection during hunting / culling season | **Low** | Record as covariate; consider delaying or stratifying by season | ✅ **Illegal tortoise poaching still happens on Santa Cruz.** There are no official island-level data, but the author knows of it from fieldwork; it is reportedly less frequent than on Isabela. Poaching incidents that residents hear about during fieldwork are recorded with dates. ✅ GNPD invasive-species control campaigns may run during the fieldwork window. ✅ Seasonal tortoise movement into the highlands and onto farms may raise human–tortoise contact during fieldwork. |
-| Active depredation conflict or rewilding event nearby | **Medium** | Document events; add event-proximity covariate | ✅ Farmer–tortoise conflicts in the highlands (e.g., fence or crop damage). |
-| National or regional media spike on focal species | **Medium** | Record Google Trends or media index; add as covariate | ✅ Trafficking or poaching news (from the author's notes). ✅ Log news from national press, a local newspaper, local radio and Facebook pages (specific outlets to be named by the author). |
-| Extreme weather affecting outdoor activity | **Medium** | Record daily weather; assess mood confounds | ✅ Floods and other shocks (from the author's notes), e.g., heavy rain or landslides on highland roads, which can limit access to the highlands and attendance at the monitoring day. The survey asks about recent shocks such as floods. ✅ Record daily weather from an official source (station or agency to be named by the author). |
-| Major policy announcement (listing, delisting, quota change) | **Medium** | Flag wave; consider ACI framing | ✅ Policy announcements (from the author's notes). ✅ Examples: changes to the Special Law for Galápagos, the park entry fee or tourism quotas, GNPD management-plan changes, rules on tortoise movement across farms. ✅ Sensitivity analysis: exclude interviews within 2 weeks after a major announcement, because trust in the GNPD is a focal predictor. |
+| Data collection during hunting / culling season | **Low** | Record as covariate; consider delaying or stratifying by season | **Illegal tortoise poaching still happens on Santa Cruz.** There are no official island-level data, but I know of it from fieldwork; it is reportedly less frequent than on Isabela. Poaching incidents that residents hear about during fieldwork are recorded with dates. GNPD invasive-species control campaigns may run during the fieldwork window. Seasonal tortoise movement into the highlands and onto farms may raise human–tortoise contact during fieldwork. |
+| Active depredation conflict or rewilding event nearby | **Medium** | Document events; add event-proximity covariate | Farmer–tortoise conflicts in the highlands (e.g., fence or crop damage). |
+| National or regional media spike on focal species | **Medium** | Record Google Trends or media index; add as covariate | Trafficking or poaching news. Log news from national press, a local newspaper, local radio and Facebook pages. |
+| Extreme weather affecting outdoor activity | **Medium** | Record daily weather; assess mood confounds | Floods, fires and other shocks, e.g., heavy rain or landslides on highland roads, which can limit access to the highlands and attendance at the monitoring day. The survey asks about recent shocks such as floods. Record daily weather from an official weather station on Santa Cruz. |
+| Major policy announcement (listing, delisting, quota change) | **Medium** | Flag wave; consider ACI framing | Policy announcements. Examples: changes to the Special Law for Galápagos, the park entry fee or tourism quotas, GNPD management-plan changes, rules on tortoise movement across farms. Sensitivity analysis: exclude interviews within 2 weeks after a major announcement, because trust in the GNPD is a focal predictor. |
 
-✅ **Overall temporal-context risk: Medium** (from the author's notes). Shocks such as floods, trafficking or poaching news, and policy announcements are recorded during fieldwork in `temporal_context_log.md` and used as covariates.
+**Overall temporal-context risk: Medium**. Shocks such as floods, fires, trafficking or poaching news, and policy announcements are recorded during fieldwork in the Step 04 `temporal_context_log.md` template and used as covariates.
 
 ---
 
@@ -129,6 +128,6 @@ scheme design) where no real-world BACI intervention is feasible.
 
 ---
 
-*Cross-reference: `study_design_checklist.md` · `design_docs/randomization_plan.md` · `../Step_05_PreRegistration/` · `../Step_09_Power_and_Sampling/`*
+*Cross-reference: `study_design_checklist.md` · `randomization_plan.md` · `../Step_05_PreRegistration/` · `../Step_09_Power_and_Sampling/`*
 
 *References: Notaro, De Salvo, & Raffaelli (2022); Cop & Njavro (2022).*

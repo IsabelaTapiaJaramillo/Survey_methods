@@ -19,7 +19,7 @@ Residents' participation in tortoise conservation is shaped by their relationshi
 
 ## 3. Theoretical framework
 
-**Why not the Theory of Planned Behavior?** Most conservation studies that use theory rely on the Theory of Planned Behavior (Ajzen, 1991), which explains action through a person's own attitudes and intentions (Eyster et al., 2025). On Santa Cruz, participation is often collective and many conservation tensions are between groups, including between residents and the institutions that manage nature, so a group-based theory fits better. *(Argument from the author's Assignment 1.)*
+**Why not the Theory of Planned Behavior?** Most conservation studies that use theory rely on the Theory of Planned Behavior (Ajzen, 1991), which explains action through a person's own attitudes and intentions (Eyster et al., 2025). On Santa Cruz, participation is often collective and many conservation tensions are between groups, including between residents and the institutions that manage nature, so a group-based theory fits better. *(From my Assignment 1.)*
 
 - **Identity: Social Identity Theory** (Tajfel & Turner, 1979) and the **Social Identity Model of Pro-Environmental Action** (SIMPEA; Fritsche et al., 2018). People act on environmental issues *as group members*, so identifying as Galapagueño/a, a group for which giant tortoises are a symbol, should predict participation. SIMPEA also proposes that in-group norms and collective efficacy shape when identity leads to action. **This study tests the identity pathway only; norms and collective efficacy are left for future work.** Tests of SIMPEA so far have measured intentions or support rather than behavior (Hoppe et al., 2023; Johnson & Reimer, 2023), which is why this study also records actual attendance.
 - **Relational values** (Chan et al., 2016): values about the *relationships* between people and nature (care, kinship, responsibility, identity), treated as a stable characteristic. SIMPEA does not specify people's relationships with nature or with institutions, so relational values and trust are added. Caring does not always lead to participating: relational values can conflict with how programs are designed (Messick & Serenari, 2025), and Santa Cruz farmers with favorable attitudes toward tortoises still acted against them after crop damage (Benitez-Capistros et al., 2018).
@@ -48,7 +48,7 @@ Residents' participation in tortoise conservation is shaped by their relationshi
 
 **Focal terms:** RV (H1), identity (H2), RV × trust (H3, the confirmatory moderation) and trust (H4). Identity × trust is exploratory. The main effect of trust also has to be in the model for the interactions to be tested correctly (Aiken & West, 1991). **Covariates** (no hypotheses; included so that focal estimates compare similar people, and reported to describe group differences): area, occupation (7 categories), origin, age, gender, education, years in Galápagos and practical-barrier count. In total, each model has 18 predictors.
 
-## 5. Hypotheses *(reviewed by the author, 2026-11-11; H4 added by the author, 2026-11-12)*
+## 5. Hypotheses
 
 - **H1.** Residents with stronger relational values will report stronger intentions to participate (H1a) and will be more likely to attend the monitoring day (H1b).
 - **H2.** Residents who identify more strongly as Galapagueño/a will report stronger intentions (H2a) and will be more likely to attend (H2b).

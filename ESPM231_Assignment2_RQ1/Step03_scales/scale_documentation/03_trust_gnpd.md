@@ -1,6 +1,6 @@
 # Scale documentation — Trust in the Galápagos National Park Directorate (TRUST)
 
-*Status: **new** measure built from theory (the Step 03 table has no trust scale; see `../scale_notes.md`). Wording and the "No sé" option reviewed and approved by the author, 2026-11-10.*
+*Status: **new** measure built from theory (the Step 03 table has no trust scale; see `../scale_notes.md`).*
 
 - **Construct name:** Trust in the GNPD (*Dirección del Parque Nacional Galápagos*) as the institution responsible for tortoise conservation. It has **three types** (Stern & Coleman, 2015):
   - **competence**: *rational* trust, based on the institution's ability and results;

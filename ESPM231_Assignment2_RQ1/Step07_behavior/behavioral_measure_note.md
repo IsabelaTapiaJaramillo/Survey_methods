@@ -10,7 +10,7 @@ RQ1 asks how relational values, identification and trust predict both what resid
 
 ## 2. The measure
 
-At the **end of the survey**, after every self-report question, each resident is invited to a **real community tortoise-monitoring day in the Santa Cruz highlands, about two weeks later**. Participants record the tortoises they see along a route with local guides, as in the *Guardians of the Giant Tortoises* program on Isabela.
+At the **end of the survey**, after every self-report question, each resident is invited to a **real community tortoise-monitoring day in the Santa Cruz highlands, about two weeks later**. Participants record the tortoises they see along a route with local guides, as in the *Guardians of the Giant Tortoises* program I led on Isabela in 2024.
 
 | Outcome | Definition | Source | Variable |
 |---|---|---|---|

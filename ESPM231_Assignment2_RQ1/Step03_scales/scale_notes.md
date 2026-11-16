@@ -14,7 +14,7 @@
 | Participation intentions (INT, outcome Y1) | 5 | New (behavior-specific) | Fishbein & Ajzen (2010); Step 07 example B-04 | [`04_participation_intentions.md`](scale_documentation/04_participation_intentions.md) |
 | Practical barriers (BAR) | 7 options | New checklist | COM-B "opportunity" (Michie et al., 2011) | [`05_practical_barriers.md`](scale_documentation/05_practical_barriers.md) |
 
-The wording of every item was reviewed and approved by the author on 2026-11-10. The behavioral outcome (Y2, monitoring-day attendance) is documented in Step 07.
+The behavioral outcome (Y2, monitoring-day attendance) is documented in Step 07.
 
 **Assignment requirement (i):** at least one construct is measured with a validated scale from the Step 03 reference table: **Relational Values (Klain et al., 2017)**.
 
@@ -28,30 +28,38 @@ The Step 03 reference table covers values and worldviews, environmental identity
 
 ## 3. Translation and pre-testing
 
-1. **Forward translation** into Galápagos Spanish, reviewed by the author for local wording (e.g., *"la parte alta"*, *"DPNG"*).
+1. **Forward translation** into Galápagos Spanish, which I review for local wording (e.g., *"la parte alta"*, *"DPNG"*).
 2. **Independent back-translation** (Brislin, 1970), with discrepancies reconciled and logged.
 3. **Cognitive interviews with 8 residents** across quota groups (Willis, 2005).
 4. **Pilot survey with 30 residents** (not in the main sample): α and ω and item–total correlations for each multi-item measure, as a rough check. CFA for each measure is run on the main sample before hypothesis testing, because 30 people is too few (Step 09 plan).
 
 ## 4. Cross-group equivalence
 
-The hypotheses do not compare groups: area, occupation and origin are control variables in every model. A full test of equivalence across all groups is therefore outside the scope of the study. The one group difference that could change what a scale means is **origin**: "Galapagueño/a" may mean something different to people born in the Galápagos than to people born on the mainland. In the main data, a multi-group CFA tests whether loadings and intercepts are equal for **island-born vs. mainland-born** residents. If a scale does not work the same way in both groups, this is reported, and the models are also run separately by origin as a check. *(Scope decided by the author, 2026-11-12.)*
+The hypotheses do not compare groups: area, occupation and origin are control variables in every model. A full test of equivalence across all groups is therefore outside the scope of the study. The one group difference that could change what a scale means is **origin**: "Galapagueño/a" may mean something different to people born in the Galápagos than to people born on the mainland. In the main data, a multi-group CFA tests whether loadings and intercepts are equal for **island-born vs. mainland-born** residents. If a scale does not work the same way in both groups, this is reported, and the models are also run separately by origin as a check.
 
 Other possible differences are handled without invariance tests:
 - contact with GNPD rules differs across occupations, so occupation is a covariate in every model;
 - relational-values answers may bunch at the top of the scale (Klain et al., 2017: mean 4.4 among Costa Rican farmers); the response distribution is checked in the pilot.
 
-*All Step 03 items have been reviewed by the author (cognitive-interview probes and invariance scope, 2026-11-12).*
-
 ---
 
 ### References
 
+*Includes sources cited in the five files in `scale_documentation/`.*
+
 Brislin, R. W. (1970). Back-translation for cross-cultural research. *Journal of Cross-Cultural Psychology*, *1*(3), 185–216. https://doi.org/10.1177/135910457000100301
+
+Chan, K. M. A., Balvanera, P., Benessaiah, K., Chapman, M., Díaz, S., Gómez-Baggethun, E., Gould, R., Hannahs, N., Jax, K., Klain, S., Luck, G. W., Martín-López, B., Muraca, B., Norton, B., Ott, K., Pascual, U., Satterfield, T., Tadaki, M., Taggart, J., & Turner, N. (2016). Why protect nature? Rethinking values and the environment. *Proceedings of the National Academy of Sciences*, *113*(6), 1462–1465. https://doi.org/10.1073/pnas.1525002113
 
 Clayton, S. (2003). Environmental identity: A conceptual and an operational definition. In S. Clayton & S. Opotow (Eds.), *Identity and the natural world* (pp. 45–65). MIT Press.
 
+Eisinga, R., te Grotenhuis, M., & Pelzer, B. (2013). The reliability of a two-item scale: Pearson, Cronbach, or Spearman-Brown? *International Journal of Public Health*, *58*(4), 637–642. https://doi.org/10.1007/s00038-012-0416-3
+
+ElHaffar, G., Durif, F., & Dubé, L. (2020). Towards closing the attitude-intention-behavior gap in green consumption: A narrative review of the literature and an overview of future research directions. *Journal of Cleaner Production*, *275*, 122556. https://doi.org/10.1016/j.jclepro.2020.122556
+
 Fishbein, M., & Ajzen, I. (2010). *Predicting and changing behavior: The reasoned action approach*. Psychology Press.
+
+Fritsche, I., Barth, M., Jugert, P., Masson, T., & Reese, G. (2018). A social identity model of pro-environmental action (SIMPEA). *Psychological Review*, *125*(2), 245–269. https://doi.org/10.1037/rev0000090
 
 Johnson, N., & Reimer, T. (2023). Using the social identity model of pro-environmental behavior to predict support for the adoption of solar panels. *Journal of Environmental Studies and Sciences*, *13*(4), 587–601. https://doi.org/10.1007/s13412-023-00850-9
 
@@ -61,6 +69,10 @@ Leach, C. W., van Zomeren, M., Zebel, S., Vliek, M. L. W., Pennekamp, S. F., Doo
 
 Michie, S., van Stralen, M. M., & West, R. (2011). The behaviour change wheel: A new method for characterising and designing behaviour change interventions. *Implementation Science*, *6*, 42. https://doi.org/10.1186/1748-5908-6-42
 
+Postmes, T., Haslam, S. A., & Jans, L. (2013). A single-item measure of social identification: Reliability, validity, and utility. *British Journal of Social Psychology*, *52*(4), 597–617. https://doi.org/10.1111/bjso.12006
+
 Stern, M. J., & Coleman, K. J. (2015). The multidimensionality of trust: Applications in collaborative natural resource management. *Society & Natural Resources*, *28*(2), 117–132. https://doi.org/10.1080/08941920.2014.945062
+
+Veríssimo, D., Fiennes, S., & Dunn, M. (2024). Using digital mobile games to increase the support for nature conservation. *Conservation Science and Practice*, *6*(11), e13236. https://doi.org/10.1111/csp2.13236
 
 Willis, G. B. (2005). *Cognitive interviewing: A tool for improving questionnaire design*. SAGE.

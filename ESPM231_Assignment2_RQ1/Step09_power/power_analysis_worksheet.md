@@ -38,7 +38,7 @@ Complete this worksheet for your primary (confirmatory) hypothesis, then attach 
 | Why you did not rely on a pilot-study estimate alone | Pilot studies (here, 30 residents) give very imprecise effect sizes. The pilot is used to test procedures, timing and scale reliability, and to check the assumed correlation among predictors and non-response. The pilot measures sign-up for the monitoring day (no day is held), which overstates attendance. After the pilot, the power analysis is re-run; the sign-up rate replaces the assumed 30% only if it is lower, and **final recruitment = 450 or the updated N, whichever is larger.** |
 
 **Other inputs (assumptions, with source):**
-- **Expected attendance = 30%.** The author's estimate, based on her experience working in conservation in the Galápagos and as a resident. The pilot measures sign-up only (an upper bound on attendance), so it can lower but not raise this assumption. Free transport, food and family activities lower barriers, but work and family commitments remain.
+- **Expected attendance = 30%.** My estimate, based on my experience working in conservation in the Galápagos and as a resident. The pilot measures sign-up only (an upper bound on attendance), so it can lower but not raise this assumption. Free transport, food and family activities lower barriers, but work and family commitments remain.
 - **Correlation among identity, trust and RV = .30.** Assumption, to be checked in the pilot.
 - **18 predictors:** 5 focal terms (identity, trust, RV, RV × trust, identity × trust) and 13 covariates (area; origin; occupation with 7 categories = 6 dummies; age; gender; education; years in Galápagos; barrier count).
 

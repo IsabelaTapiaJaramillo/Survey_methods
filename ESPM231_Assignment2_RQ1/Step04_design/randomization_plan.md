@@ -4,7 +4,7 @@ Document the random assignment procedure here. This file should be completed **b
 
 *ESPM 231 Assignment 2 (RQ1 only), Isabela Tapia-Jaramillo. Code: [`randomize_form_versions.R`](randomize_form_versions.R).*
 
-> **No one is assigned to treatment groups in this study.** The design is cross-sectional (one survey followed by a behavioral measure), so there is no control or treatment arm. What *is* randomized is the **order of the two photos** in the image-association task, to control order effects. This plan documents that procedure. *(Approved by the author, 2026-11-11.)*
+> **No one is assigned to treatment groups in this study.** The design is cross-sectional (one survey followed by a behavioral measure), so there is no control or treatment arm. What *is* randomized is the **order of the two photos** in the image-association task, to control order effects. This plan documents that procedure.
 
 ---
 
