@@ -45,3 +45,7 @@ Packages: `pwr`, `MASS` (included with R). The power script takes a few minutes 
 ## Earlier version
 
 An earlier, larger version of this proposal also tested a community festival (RQ2). It is saved for future work on the branch [`assignment-2-tortoise-festival`](https://github.com/IsabelaTapiaJaramillo/Survey_methods/tree/assignment-2-tortoise-festival).
+
+## AI use
+
+I used Claude (Anthropic) as an assistant to work in this GitHub repository directly, instead of filling in the downloadable PDF templates by hand. The research question, theory, design, hypotheses and measures are my own, and I reviewed, corrected and approved all content.
