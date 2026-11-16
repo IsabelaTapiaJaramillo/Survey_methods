@@ -16,7 +16,7 @@ Everything for this assignment is in this folder.
 |---|---|
 | **(i)** At least one validated scale from the Step 03 table, or a justification for new measures | [`Step03_scales/scale_notes.md`](Step03_scales/scale_notes.md) and [`Step03_scales/scale_documentation/`](Step03_scales/scale_documentation/): **Relational Values (Klain et al., 2017)** is the validated scale; identification is adapted; trust, intentions and barriers are new, with justification |
 | **(ii)** Step 04 design decision matrix and randomization plan | [`Step04_design/design_decision_matrix.md`](Step04_design/design_decision_matrix.md) · [`Step04_design/randomization_plan.md`](Step04_design/randomization_plan.md) (+ [`randomize_form_versions.R`](Step04_design/randomize_form_versions.R)) |
-| **(iii)** Step 06 survey matrix (≥ 2 question types) and a Step 07 behavioral measure | [`Step06_survey/survey_matrix.md`](Step06_survey/survey_matrix.md) (6 question types) · [`Step07_behavior/behavioral_measure_note.md`](Step07_behavior/behavioral_measure_note.md) (+ [`rq1_models.R`](Step07_behavior/rq1_models.R)) |
+| **(iii)** Step 06 survey matrix (≥ 2 question types) and a Step 07 behavioral measure | [`Step06_survey/survey_matrix.md`](Step06_survey/survey_matrix.md) (6 question types) · [`Step07_behavior/behavioral_measure_note.md`](Step07_behavior/behavioral_measure_note.md) |
 | **(iv)** Step 09 power analysis in R, with the assumed effect size | [`Step09_power/power_analysis_worksheet.md`](Step09_power/power_analysis_worksheet.md) · [`Step09_power/power_analysis_rq1.R`](Step09_power/power_analysis_rq1.R) · [`Step09_power/output/`](Step09_power/output/) |
 
 **Also included:** the Step 02 theory memo ([`Step02_theory/theory_notes.md`](Step02_theory/theory_notes.md)) and the Step 09 sampling and pilot plan ([`Step09_power/sampling_and_pilot_plan.md`](Step09_power/sampling_and_pilot_plan.md)).
@@ -37,14 +37,9 @@ Everything for this assignment is in this folder.
 ```bash
 Rscript ESPM231_Assignment2_RQ1/Step09_power/power_analysis_rq1.R
 Rscript ESPM231_Assignment2_RQ1/Step04_design/randomize_form_versions.R
-Rscript ESPM231_Assignment2_RQ1/Step07_behavior/rq1_models.R
 ```
 
 Packages: `pwr`, `MASS` (included with R). The power script takes a few minutes (1,000 simulations per setting).
-
-## Earlier version
-
-An earlier, larger version of this proposal also tested a community festival (RQ2). It is saved for future work on the branch [`assignment-2-tortoise-festival`](https://github.com/IsabelaTapiaJaramillo/Survey_methods/tree/assignment-2-tortoise-festival).
 
 ## AI use
 

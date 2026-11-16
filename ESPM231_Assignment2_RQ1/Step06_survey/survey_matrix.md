@@ -272,7 +272,7 @@ Use the table below to select the appropriate format for each item.
 
 | Version | Date | Author | Changes made |
 |---|---|---|---|
-| v0.1 — draft | 2026-11-10 | I. Tapia-Jaramillo | Initial item generation (festival design; branch `assignment-2-tortoise-festival`) |
+| v0.1 — draft | 2026-11-10 | I. Tapia-Jaramillo | Initial item generation (earlier design that also included a community festival) |
 | v0.2 — RQ1 only | 2026-11-11 | I. Tapia-Jaramillo | Narrowed to RQ1 after meeting with Prof. Echeverri: single survey, festival and second survey removed; norms and collective efficacy dropped; occupation categories revised; GNPD-staff flag added |
 | v0.2 — post peer review | | | |
 | v0.3 — post cognitive interview | | | |

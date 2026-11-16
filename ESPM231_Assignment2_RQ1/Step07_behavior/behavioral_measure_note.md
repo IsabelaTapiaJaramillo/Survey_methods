@@ -1,6 +1,6 @@
 # Step 07 — Behavioral Measure: Community Tortoise-Monitoring Day
 
-*ESPM 231 Assignment 2 (RQ1 only), Isabela Tapia-Jaramillo. Code: [`rq1_models.R`](rq1_models.R), adapted from `Step_07_Measuring_Behavior_Beyond_Self_Report/code/analyze_behavior_data.R`. Demo output from simulated data is in [`output/`](output/).*
+*ESPM 231 Assignment 2 (RQ1 only), Isabela Tapia-Jaramillo.*
 
 ---
 
@@ -38,7 +38,7 @@ The day is **unpaid**, so attending costs a morning or afternoon and reflects a 
 | **B-04**: Veríssimo et al. (2024), intentions on a 5-point likelihood scale | Hypothetical intentions, an upper bound | **INT1–INT5** use the same format; INT2 names the exact behavior later observed. |
 | **B-09**: de Goede et al. (2025), actual vs. self-reported behavior in the same people | Matched self-report and behavior | Same logic: each person's stated intention is compared with their own attendance. |
 
-## 4. Analysis (`rq1_models.R`)
+## 4. Analysis
 
 1. **Model 1 (intention, linear):** Y1 = identity + trust + RV + RV × trust + identity × trust + covariates.
 2. **Model 2 (attendance, logistic):** the same predictors, with attendance (0/1) as the outcome. Odds ratios are reported.

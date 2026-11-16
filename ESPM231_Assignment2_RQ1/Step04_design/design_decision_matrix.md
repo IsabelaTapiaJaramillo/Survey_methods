@@ -124,7 +124,7 @@ scheme design) where no real-world BACI intervention is feasible.
 | Temporal context risks | **Medium** (see Part 4) |
 | Pre-registration platform | **OSF** (Step 05), before data collection |
 
-**What the design can and cannot show.** Because there is no intervention, results describe how relational values, identification and trust **predict** intentions and attendance (associations, not causes; `study_design_checklist.md` §2a). Measuring real behavior, not only intentions, makes the test much stronger than a survey alone. The festival studied in an earlier version of this proposal (RQ2) is kept for future work on branch `assignment-2-tortoise-festival`.
+**What the design can and cannot show.** Because there is no intervention, results describe how relational values, identification and trust **predict** intentions and attendance (associations, not causes; `study_design_checklist.md` §2a). Measuring real behavior, not only intentions, makes the test much stronger than a survey alone.
 
 ---
 

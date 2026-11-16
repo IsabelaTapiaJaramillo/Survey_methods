@@ -56,7 +56,7 @@ Document the random assignment procedure here. This file should be completed **b
 
 ## Implementation
 
-- [x] Assignment sequence generated before any participant is enrolled (`form_version_sequence.csv`).
+- [x] Assignment sequence generated before any participant is enrolled (`randomize_form_versions.R` writes the list of form versions for each enumerator).
 - [ ] Assignment sequence stored in a locked file (not accessible to data collectors if blinding is required). *Not needed: knowing the next form version gives enumerators no reason or opportunity to change who they recruit.*
 - [x] Assignment delivered to participants via: ☐ Survey platform randomizer  ☒ Researcher (the enumerator opens the form version listed for their next participant ID)  ☐ Automated system
 - [x] Blinding: ☐ Participants blind to condition  ☒ Data analysts blind until lock  ☐ Not blinded (document reason). *Participants see only one version; this is not deception, and it is explained at the community debriefing session.*
