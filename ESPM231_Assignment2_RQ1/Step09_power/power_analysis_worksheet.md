@@ -194,6 +194,13 @@ Power curves saved to ESPM231_Assignment2_RQ1/Step09_power/output
 
 ![Power for the attendance model across sample sizes](output/power_curve_behavior.png)
 
+**How to read the curves.** Each line shows power (the chance of detecting an effect that really exists) as the sample grows, under a different assumption about how strong the effect is. The dashed horizontal line is the 80% target, and the red vertical line is my sample of 425.
+
+- **f²** (intention model) and **d** (attendance model) are effect sizes: how strong the association between a predictor and the outcome is. By convention, f² = .02 and d = .20 count as "small."
+- **OR** (odds ratio) is the same effect expressed for a yes/no outcome. OR = 1.44 means that a one-standard-deviation increase in a predictor (e.g., trust) raises the odds of attending the monitoring day by 44%. Each d was converted to an OR with Chinn (2000).
+- **SESOI** (smallest effect size of interest) is the weakest effect worth detecting for this question. The sample size is based on this line: it reaches 80% power at 412 (intention) and 425 (attendance).
+- The other lines are the sensitivity values from section 4: in the intention model, f² = .01 and .035; in the attendance model, d = .18 and d = .31 from Bergquist et al. (2023).
+
 ---
 
 ## 6. Checklist before you attach this worksheet
