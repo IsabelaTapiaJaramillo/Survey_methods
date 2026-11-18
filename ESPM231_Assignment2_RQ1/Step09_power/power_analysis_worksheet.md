@@ -222,7 +222,7 @@ Power curves saved to ESPM231_Assignment2_RQ1/Step09_power/output
 |---|---|
 | Area | Puerto Ayora vs. highlands (Bellavista + Santa Rosa) |
 | Occupation | Farming · fishing · tourism · naturalist guide · conservation & research · education & public services · other |
-| Origin | Born in Galápagos vs. born in mainland Ecuador (other countries recorded) |
+| Origin | Born in Galápagos vs. born outside Galápagos. Residents born in another country are grouped with those born on mainland Ecuador; the country of birth is still recorded, and the number born abroad is reported. |
 
 Quota targets are set in proportion to the most recent Galápagos census and adjusted after the pilot. There is no minimum per occupation: occupation is a control variable, not a group being compared. Any occupation with fewer than 10 people in the final sample is merged with the most similar category before the main analysis (e.g., naturalist guide into tourism), and the final count for each occupation is reported. Occupation is classified by the **type of work**, not the employer, so teachers in public and private schools are both in "education & public services". GNPD employees are flagged with a separate question.
 

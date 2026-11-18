@@ -35,7 +35,7 @@ The Step 03 reference table covers values and worldviews, environmental identity
 
 ## 4. Cross-group equivalence
 
-The hypotheses do not compare groups: area, occupation and origin are control variables in every model. A full test of equivalence across all groups is therefore outside the scope of the study. The one group difference that could change what a scale means is **origin**: "Galapagueño/a" may mean something different to people born in the Galápagos than to people born on the mainland. In the main data, a multi-group CFA tests whether loadings and intercepts are equal for **island-born vs. mainland-born** residents. If a scale does not work the same way in both groups, this is reported, and the models are also run separately by origin as a check.
+The hypotheses do not compare groups: area, occupation and origin are control variables in every model. A full test of equivalence across all groups is therefore outside the scope of the study. The one group difference that could change what a scale means is **origin**: "Galapagueño/a" may mean something different to people born in the Galápagos than to people born outside the islands. In the main data, a multi-group CFA tests whether loadings and intercepts are equal for **island-born residents vs. residents born outside Galápagos** (mainland Ecuador or another country). If a scale does not work the same way in both groups, this is reported, and the models are also run separately by origin as a check.
 
 Other possible differences are handled without invariance tests:
 - contact with GNPD rules differs across occupations, so occupation is a covariate in every model;

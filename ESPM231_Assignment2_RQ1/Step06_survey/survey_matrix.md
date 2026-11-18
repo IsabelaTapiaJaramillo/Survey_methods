@@ -44,7 +44,7 @@
 | B0-04 | "Where do you live?" Puerto Ayora / Bellavista / Santa Rosa / other part of Santa Cruz | RQ1 | Group: area | ☒ Covariate | Step 06 demographic bank | Multiple choice | Screener (quota) | Quota variable and model covariate |
 | B0-05 | "What is your main occupation?" Farming / fishing / tourism (hotels, restaurants, boats, agencies) / naturalist guide / conservation & research (GNPD, Charles Darwin Foundation, NGOs, universities) / education & public services (public **or private** schools, health, municipality, other government offices) / other (retired, students, commerce, trades, unemployed…) | RQ1 | Group: occupation | ☒ Covariate | New (local categories) | Multiple choice (7 options) | Screener (quota) | Classified by the **type of work**, not the employer |
 | B0-06 | "Do you work for the Galápagos National Park Directorate (DPNG)?" | RQ1 | n/a | ☒ Covariate (sensitivity flag) | New | Yes / No | After B0-05 | Results are checked with and without GNPD staff, since for them the trust items describe their own employer |
-| B0-07 | "Where were you born?" Galápagos / mainland Ecuador / another country | RQ1 | Group: origin | ☒ Covariate | n/a | Multiple choice | Screener (quota) | Quota variable; part of what "Galapagueño/a" means |
+| B0-07 | "Where were you born?" Galápagos / mainland Ecuador / another country | RQ1 | Group: origin | ☒ Covariate | n/a | Multiple choice | Screener (quota) | Quota variable; part of what "Galapagueño/a" means. Coded as Galápagos vs. outside Galápagos (mainland Ecuador + another country) |
 | B0-08 | *(Auto)* Enumerator ID, date, start time, `participant_id`, `form_version` | n/a | n/a | ☒ Covariate (enumerator; version) | `randomize_form_versions.R` | Auto | Hidden | Interviewer and order effects. **Names and phone numbers are stored in a separate file.** |
 
 ### Block 1 — Word and image association · 2.5 min
@@ -118,7 +118,7 @@
 | `trust_mean` | ☒ IV / moderator | ☒ Continuous | B3-16–21 | 1–5 | "No sé" = missing; score if ≥ 4/6 items; MI | Focal; mean-centered for interactions |
 | `area` | ☒ Covariate | ☒ Binary | B0-04 | Puerto Ayora / highlands | None (screener) | |
 | `occupation` | ☒ Covariate | ☒ Nominal | B0-05 | 7 levels (6 dummies) | None (screener) | |
-| `origin` | ☒ Covariate | ☒ Binary | B0-07 | Galápagos / mainland (other countries reported separately) | None | |
+| `origin` | ☒ Covariate | ☒ Binary | B0-07 | Born in Galápagos / born outside Galápagos (mainland Ecuador or another country; number born abroad reported) | None | |
 | `age`, `years_gal` | ☒ Covariate | ☒ Continuous | B4-06, B4-05 | years | MI | |
 | `gender`, `education` | ☒ Covariate | ☒ Nominal / ordinal | B4-07, B4-08 | categories | "Prefer not to say" kept as its own level | |
 | `bar_count` (and `bar_*`) | ☒ Covariate | ☒ Count / binary | B4-03 | 0–6 | Item-level | |
